@@ -1,0 +1,273 @@
+/*------- features area start -------*/
+.feature-item-inner {
+    margin-top: -30px;
+    margin-bottom: -5px;
+    &__style-3 {
+        background-color: $theme-color-5;
+        margin-top: 0;
+        padding: 38px 0 70px;
+        // responsive
+        @media #{$sm-device} {
+            padding: 33px 0 62px;
+        }
+        .feature {
+            &-item {
+                &:hover {
+                   .feature-icon {
+                        color: $theme-color-5;
+                        background-color: $white;
+                        &:before {
+                            border-color: $white;
+                        }
+                   } 
+                }
+            }
+            &-content {
+                h6, p {
+                    color: $white;
+                }
+            }
+        }
+    }
+}
+.feature {
+    &-item {
+        text-align: center;
+        transition: 0.4s;
+        margin-top: 30px;
+        // responsive
+        @media #{$sm-device} {
+            padding: 0 65px;
+        }
+        @media #{$xs-device} {
+            padding: 0 35px;
+        }
+        @media #{$xxs-device} {
+            padding: 0;
+        }
+        &:hover {
+            .feature-icon {
+                color: $theme-color;
+                &:before {
+                    border-color: $theme-color;
+                }
+            }
+        }
+    }
+    &-icon {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        margin: 0 auto;
+        border-radius: 50%;
+        font-size: 35px;
+        position: relative;
+        color: #949494;
+        transition: 0.4s;
+        &:before {
+            top: 0;
+            left: 0;
+            border: 2px solid #D5D5D5;
+            content: '';
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            transition: 0.4s;
+            display: block;
+            transform: scale(1);
+        }
+    }
+    &-content {
+        h6 {
+            font-size: 13px;
+            font-weight: 800;
+            text-transform: uppercase;
+            padding: 22px 0 18px;
+        }
+        p {
+            font-size: 14px;
+            color: #666;
+        }
+    }
+}
+.ft-bdr-inner {
+    .ft-bdr {
+        border-right: 1px solid $bdr-color;
+        border-bottom: 1px solid $bdr-color;
+        &:nth-child(4),
+        &:nth-child(8) {
+            border-right: none;
+        }
+        &:nth-child(5), 
+        &:nth-child(6), 
+        &:nth-child(7), 
+        &:nth-child(8) {
+            border-bottom: none;
+        }
+    }
+}
+/*------- features area end -------*/
+
+// features style 02
+.feature-style-2 {
+    // responsive
+    @media #{$md-device} {
+        margin-bottom: -30px;
+    }
+    @media #{$sm-device} {
+        margin-bottom: -40px;
+    }
+}
+.feature-wrapper {
+    // responsive
+    @media #{$md-device} {
+        margin-top: 30px;
+    }
+}
+.sin-feature {
+    width: 100%;
+    // responsive
+    @media #{$md-device} {
+        width: 50%;
+        float: left;
+        margin-left: 0 !important;
+        margin-bottom: 30px !important;
+    }
+    @media #{$sm-device} {
+        margin-left: 0 !important;
+        margin-bottom: 30px !important;
+    }
+    &:nth-child(1) {
+        margin-bottom: 45px;
+        margin-left: -200px;
+    }
+    &:nth-child(2) {
+        margin-bottom: 65px;
+        margin-left: -40px;
+    }
+    &:nth-child(3) {
+        margin-bottom: 100px;
+        margin-left: 60px;
+        // responsive
+        @media #{$xlmid-device} {
+            margin-left: 40px !important;
+        }
+        @media #{$lg-device} {
+            margin-left: 0 !important;
+        }
+    }
+    &:nth-child(4) {
+        margin-bottom: 80px;
+        margin-left: 95px;
+        // responsive
+        @media #{$xlmid-device} {
+            margin-left: 50px !important;
+        }
+        @media #{$lg-device} {
+            margin-left: 0 !important;
+        }
+    }
+    &:nth-child(5) {
+        margin-bottom: 85px;
+        margin-left: 60px;
+        // responsive
+        @media #{$xlmid-device} {
+            margin-left: 20px !important;
+        }
+        @media #{$lg-device} {
+            margin-left: 0 !important;
+        }
+    }
+    &:nth-child(6) {
+        margin-bottom: 40px;
+        margin-left: -40px;
+    }
+    &:nth-child(7) {
+        margin-left: -200px;
+    }
+    .icon {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        margin: 0 auto;
+        border-radius: 50%;
+        font-size: 35px;
+        position: relative;
+        color: #888888;
+        text-align: center;
+        float: left;
+        margin-right: 12px;
+        background-color: $white;
+        transition: 0.4s;
+        &:before {
+            top: 0;
+            left: 0;
+            border: 2px solid $white;
+            content: '';
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            transition: 0.4s;
+            display: block;
+            transform: scale(1);
+        }
+    }
+    .content {
+        .feature-title {
+            font-size: 13px;
+            font-weight: 800;
+            padding-top: 14px;
+            padding-bottom: 18px;
+            text-transform: uppercase;
+        }
+        p {
+            font-size: 13px;
+            color: $paragraph-light;
+        }
+    }
+    &:hover {
+        .icon {
+            color: $white;
+            background-color: $theme-color-3;
+            &:before {
+                transform: scale(0.8);
+                border-color: $white;
+            }
+        }
+    }
+}
+.sin-feature {
+    .content {
+        overflow: hidden;
+    }
+}
+.feture-thumb {
+    text-align: center;
+    img {
+        // responsive
+        @media #{$md-device} {
+            width: 70%;
+            margin: auto;
+        }
+    }
+}
+
+.feature-style-3 {
+    .title-style-2 {
+        // responsive
+        @media #{$sm-device} {
+            padding-top: 75px;
+        }
+        &:after {
+            right: -180px;
+            left: auto;
+            top: -120px;
+            // responsive
+            @media #{$sm-device} {
+                top: -70px;
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+.download-area {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../assets/img/clients-bg.jpg);
+    padding-bottom: 130px;
+    // responsive
+    @media #{$sm-device} {
+        padding-bottom: 63px;
+    }
+}
+.downloadTwo {
+    padding-bottom: 114px;
+    // responsive
+    @media #{$sm-device} {
+        padding-top: 75px;
+        padding-bottom: 63px;
+    }
+    .button-set {
+        // responsive
+        @media #{$sm-device} {
+            margin-top: 30px;
+        }
+    }
+}
+
+.download-style-3 {
+    background-color: #252525 !important;
+    background-image: none !important;
+}
