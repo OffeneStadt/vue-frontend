@@ -28,10 +28,10 @@ export default {
     data (){
         return {
              abouts:[
-                {title: "123BUILD SHOWCASE", desc: "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.", icon: "fa fa-pagelines"},
-                {title: "FULL RESPONSIVE", desc: "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.", icon: "fa fa-laptop"},
-                {title: "RETINA READY", desc: "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.", icon: "fa fa-apple"},
-                {title: "UNIQUE DESIGN", desc: "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.", icon: "fa fa-paint-brush"}
+                {title: "200 Innovator*Innen", desc: "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.", icon: "fa fa-user"},
+                {title: "FORUM", desc: "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.", icon: "fa fa-tablet"},
+                {title: "100 % Openess: Apps, Designs, APIs und Ideen", desc: "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.", icon: "fa fa-code"},
+                {title: "Zum dritten Mal!", desc: "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.", icon: "fa fa-clock-o"}
             ]
         }
     }

@@ -13,7 +13,7 @@
                     <div class="bestapp-content-inner text-center">
                         <div class="section-title text-center">
                             <div class="title-icon"></div>
-                            <h2 class="title text-white">EMBED VIDEO SUPPORT LEFT, RIGHT OR FULL WIDTH</h2>
+                            <h2 class="title text-white">Rückblick</h2>
                             <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
                         </div>
                         <div class="bestapp-content-text pb-0">
@@ -35,7 +35,7 @@
         name: 'Video',
         data () {
             return {
-                video: "https://www.youtube.com/embed/iaj8ktgL3BY",
+                video: "https://www.youtube.com/embed/ODBHk6L5uEM",
                 bgImg: {
                     backgroundImage: `url(${require('../assets/img/video-bg.jpg')})`
                 }
@@ -48,3 +48,4 @@
     @import '../assets/scss/variables.scss';
     @import '../assets/scss/components/video.scss';
 </style>
+

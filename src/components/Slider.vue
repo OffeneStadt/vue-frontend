@@ -20,8 +20,8 @@
                                 <h2 class="slider-title">{{ slider.sliderTitle }}</h2>
                                 <p class="slider-desc">{{ slider.sliderDesc }}</p>
                                 <div class="slider-btn">
-                                    <a href="#" class="read-more active"><i class="fa fa-apple"></i> Apple Store</a>
-                                    <a href="#" class="read-more"><i class="fa fa-android"></i> Google Play</a>
+                                    <a href="#" class="read-more active"><i class="fa fa-meetup"></i> Anmeldung</a>
+                                    <a href="#" class="read-more"><i class="fa fa-heart"></i> Open Apps</a>
                                 </div>
                             </div>
                         </div>
@@ -43,12 +43,12 @@
         data (){
             return {
                 bgImg: {
-                    backgroundImage: `url(${require('../assets/img/home-bg.jpg')})`
+                    backgroundImage: `url(${require('../assets/img/slider/3.jpg')})`
                 },
                 sliders: [
-                    {sliderThumb: require("../assets/img/slider/1.png"), sliderTitle: 'AWESOME MOBILE APP', sliderDesc: 'An awesome WordPress theme for App landing and App Store site'},
-                    {sliderThumb: require("../assets/img/slider/2.png"), sliderTitle: 'AWESOME MOBILE APP', sliderDesc: 'An awesome WordPress theme for App landing and App Store site'},
-                    {sliderThumb: require("../assets/img/slider/3.png"), sliderTitle: 'AWESOME MOBILE APP', sliderDesc: 'An awesome WordPress theme for App landing and App Store site'},
+                    {sliderThumb: require("../assets/img/slider/1.jpg"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 'KÖRBERFORUM | KEHRWIEDER 12 | HAMBURG | 8. NOVEMBER 2019 | 10 - 17 UHR'},
+                    {sliderThumb: require("../assets/img/slider/2.jpg"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 'KÖRBERFORUM | KEHRWIEDER 12 | HAMBURG | 8. NOVEMBER 2019 | 10 - 17 UHR'},
+                    {sliderThumb: require("../assets/img/slider/3.jpg"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 'KÖRBERFORUM | KEHRWIEDER 12 | HAMBURG | 8. NOVEMBER 2019 | 10 - 17 UHR'},
                 ]
                 
             }

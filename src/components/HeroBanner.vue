@@ -5,7 +5,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6 order-2 order-md-1">
                         <div class="slider-content slider-content__style-2">
-                            <h2 class="slider-title">AWESOME MOBILE APP</h2>
+                            <h2 class="slider-title">AW2SOME MOBILE APP</h2>
                             <p class="slider-desc">An awesome WordPress theme for App landing and App Store site</p>
                             <div class="slider-btn">
                                 <a href="#" class="read-more active"><i class="fa fa-apple"></i> Apple Store</a>

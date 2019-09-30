@@ -6,7 +6,7 @@
 
         <!-- slider section -->
         <HeroBannerThree />
-        <h1>asjndjasbdjhbsad</h1>
+        <h1>Seite Forum eigenständig</h1>
 
         <!-- home section -->
         <About AboutStyle="about-style-3" />

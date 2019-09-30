@@ -5,7 +5,7 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="bestapp-content-inner bestappThree">
                         <div class="section-title title-style-2 shape">
-                            <h2 class="title text-white">best mobile app</h2>
+                            <h2 class="title text-white">best mo123bile app</h2>
                             <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
                         </div>
                         <div class="bestapp-content-text">

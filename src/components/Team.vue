@@ -5,8 +5,8 @@
                 <div class="col-12">
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
-                        <h2 class="title">OUR TEAM</h2>
-                        <p class="paragraph">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
+                        <h2 class="title">Team </h2>
+                        <p class="paragraph">Das Team hinter dem FORUM Offene Stadt.</p>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                 <div class="row">
                     <div class="col-12">
                         <carousel class="team-carousel"
-                            :item = "3"
+                            :item = "6"
                             :nav = "false"
                             :dots = "false"
                             :autoplay = "true"
@@ -64,13 +64,15 @@ export default {
     data (){
         return {
             teams:[
-                {title: "Tony jack", designation: "Developer", thumb: require("../assets/img/team/1.jpg")},
-                {title: "Erik jack", designation: "Designer", thumb: require("../assets/img/team/2.jpg")},
-                {title: "Marlin jack", designation: "Marketer", thumb: require("../assets/img/team/3.jpg")},
-                {title: "Tom jack", designation: "SEO Specialist", thumb: require("../assets/img/team/2.jpg")}
+                {title: "Timo Lundelius", designation: "Gründer und Organisator | Code for Hamburg e.V.", thumb: require("../assets/img/team/1.jpg")},
+                {title: "Hannes Hasenpatt", designation: "Designer", thumb: require("../assets/img/team/2.jpg")},
+                {title: "Julia Thomaschki", designation: "Marketer", thumb: require("../assets/img/team/3.jpg")},
+                {title: "Christian Wittig", designation: "Marketer", thumb: require("../assets/img/team/3.jpg")},
+                {title: "Sven Tetzlaff Fischer", designation: "Körber-Stiftung", thumb: require("../assets/img/team/2.jpg")}
+               , {title: "...", designation: "SEO Specialist", thumb: require("../assets/img/team/2.jpg")},
             ],
             bgImg: {
-                backgroundImage: `url(${require('../assets/img/team-bg.jpg')})`
+                backgroundImage: `url(${require('../assets/img/slider/1.jpg')})`
             }
         }
     }

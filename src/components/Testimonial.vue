@@ -5,7 +5,7 @@
                 <div class="col-12">
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
-                        <h2 class="title text-white">Speaker</h2>
+                        <h2 class="title text-white">Redner*Innen</h2>
                         <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
                     </div>
                 </div>
