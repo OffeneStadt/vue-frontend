@@ -7,9 +7,6 @@
         <!-- slider section -->
         <HeroBannerThree />
 
-        <!-- home section -->
-        <About AboutStyle="about-style-3" />
-
         <!-- best app section -->
         <BestappThree />
 
@@ -43,7 +40,6 @@
 <script>
     import Navbar from '../components/Navbar'
     import HeroBannerThree from '../components/HeroBannerThree'
-    import About from '../components/About'
     import BestappThree from '../components/BestappThree'
     import FeaturesThree from '../components/FeaturesThree'
     import TestimonialThree from '../components/TestimonialThree'
@@ -59,7 +55,6 @@
         components: {
             Navbar,
             HeroBannerThree,
-            About,
             BestappThree,
             FeaturesThree,
             TestimonialThree,

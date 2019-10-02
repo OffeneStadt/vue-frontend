@@ -3,11 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <carousel class="testimonial-active owl-dot-style"
-                        :items = "1"
-                        :nav = "false"
-                        :smartSpeed = "1000"
-                    >
+                    <carousel class="testimonial-active owl-dot-style" :items = "1" :nav = "false" :smartSpeed = "1000">
                         <!-- testimonial item start -->
                         <div v-for="(client, clients) in clients" :key="clients" class="testimonial-item testimonial-style2">
                             <div class="testimonial-content">

@@ -6,22 +6,34 @@
         <Navbar />
 
         <!-- slider section -->
-        <Slider></Slider>
+        <Slider />
 
-        <!-- about section -->
-        <About></About>
+        <!-- forum section -->
+        <Forum />
 
         <!-- best app section -->
-        <Bestapp />
+        <!--<Bestapp />-->
+        
+        <!-- programm app section -->
+        <Programm />
 
         <!-- features section -->
-        <Features />
+        <!--<Features />-->
+
+        <!-- projekte section -->
+        <Projekte />
 
         <!-- testimonial section -->
-        <Testimonial />
+        <Speaker />
 
-        <!-- screenshot area -->
-        <Screenshot />
+        <!-- partner area -->
+        <Partner />
+
+        <!-- rueckblick area -->
+        <Rueckblick />
+
+        <!-- veranstalter area -->
+        <Veranstalter />
 
         <!-- video section -->
         <Video />
@@ -44,11 +56,15 @@
 <script>
     import Navbar from '../components/Navbar'
     import Slider from '../components/Slider'
-    import About from '../components/About'
-    import Bestapp from '../components/Bestapp'
-    import Features from '../components/Features'
-    import Testimonial from '../components/Testimonial'
-    import Screenshot from '../components/Screenshot'
+    import Forum from '../components/Forum'
+    //import Bestapp from '../components/Bestapp'
+    import Programm from '../components/Programm'
+    //import Features from '../components/Features'
+    import Projekte from '../components/Projekte'
+    import Speaker from '../components/Speaker'
+    import Partner from '../components/Partner'
+    import Rueckblick from '../components/Rueckblick'
+    import Veranstalter from '../components/Veranstalter'
     import Video from '../components/Video'
     import Team from '../components/Team'
     import Download from '../components/Download'
@@ -60,11 +76,15 @@
         components: {
             Navbar,
             Slider,
-            About,
-            Bestapp,
-            Features,
-            Testimonial,
-            Screenshot,
+            Forum,
+            //Bestapp,
+            Programm,
+          //  Features,
+            Partner,
+            Projekte,
+            Speaker,
+            Rueckblick,
+            Veranstalter,
             Video,
             Team,
             Download,

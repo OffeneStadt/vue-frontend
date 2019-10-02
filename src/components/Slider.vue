@@ -18,7 +18,7 @@
                         <div class="col-xl-6 col-lg-7 col-md-7">
                             <div class="slider-content">
                                 <h2 class="slider-title">{{ slider.sliderTitle }}</h2>
-                                <p class="slider-desc">{{ slider.sliderDesc }}</p>
+                                <p class="slider-desc" style="background-color: #1F446C">{{ slider.sliderDesc }}</p>
                                 <div class="slider-btn">
                                     <a href="#" class="read-more active"><i class="fa fa-meetup"></i> Anmeldung</a>
                                     <a href="#" class="read-more"><i class="fa fa-heart"></i> Open Apps</a>
@@ -46,9 +46,9 @@
                     backgroundImage: `url(${require('../assets/img/slider/3.jpg')})`
                 },
                 sliders: [
-                    {sliderThumb: require("../assets/img/slider/1.jpg"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 'KÖRBERFORUM | KEHRWIEDER 12 | HAMBURG | 8. NOVEMBER 2019 | 10 - 17 UHR'},
-                    {sliderThumb: require("../assets/img/slider/2.jpg"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 'KÖRBERFORUM | KEHRWIEDER 12 | HAMBURG | 8. NOVEMBER 2019 | 10 - 17 UHR'},
-                    {sliderThumb: require("../assets/img/slider/3.jpg"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 'KÖRBERFORUM | KEHRWIEDER 12 | HAMBURG | 8. NOVEMBER 2019 | 10 - 17 UHR'},
+                    {sliderThumb: require("../assets/img/slider/1.jpg"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 
+                    'Wie können uns offene digitale Lösungen dabei helfen, unsere Stadt und Region mitzugestalten? '
+                    + 'Dieser Frage gehen wir in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung nach.'},
                 ]
                 
             }
