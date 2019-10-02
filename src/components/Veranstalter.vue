@@ -1,0 +1,82 @@
+<template>
+    <section class="team-area pt-100 section-padding fix" id="veranstalter">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title text-center">
+                        <div class="title-icon"></div>
+                        <h2 class="title">Veranstalter </h2>
+                        <p class="paragraph">Veranstalter</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="team-member-inner" :style="bgImg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="team-content text-center">
+                            <!--<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="team-member-slider">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <carousel class="team-carousel"
+                            :item = "6"
+                            :nav = "false"
+                            :dots = "false"
+                            :autoplay = "true"
+                            :smartSpeed = "1000"
+                            :responsive="{0:{items:1},576:{items:2},768:{items:3}}"
+                        >
+                            <div v-for="(team, teams) in teams" :key="teams" class="team-member">
+                                <div class="member-thumb">
+                                    <img :src="team.thumb" alt="team thumb">
+                                    <div class="member-content">
+                                        <h6 class="title">{{ team.title }}</h6>
+                                        <p class="designation">{{ team.designation }}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </carousel>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+
+<script>
+import carousel from 'vue-owl-carousel'
+
+export default {
+    name: 'Veranstalter',
+    components: {
+        carousel 
+    },
+    data (){
+        return {
+            teams:[
+                {title: "Körber Stiftung", designation: "Die Körber-Stiftung stellt mit ihren operativen Projekten, Netzwerken und Kooperationspartnern derzeit drei aktuelle gesellschaftliche Herausforderungen in den Fokus: »Digitale Mündigkeit«, »Neue Lebensarbeitszeit« und »Russland in Europa«. 1959 von dem Unternehmer Kurt A. Körber ins Leben gerufen, ist die Stiftung heute von ihren Standorten Hamburg und Berlin aus national und international aktiv.", thumb: require("../assets/img/veranstalter/logo-koerber.png")},
+                {title: "Open Knowledgement Foundation Deutschland", designation: "Die Open Knowledge Foundation Deutschland tritt als gemeinnütziger Verein bei Themen der digitalen Gesellschaft aktiv für die Rechte der Bürger ein. Dabei setzt sich die Organisation in ihren Projekten insbesondere für offenes Wissen, offene Daten, Transparenz und Beteiligung ein.", thumb: require("../assets/img/veranstalter/logo-okf.png")},
+                {title: "Code for Hamburg", designation: "Code for Hamburg besteht seit Februar 2014 und ist eine Gruppe von ehrenamtlichen Datenarbeitern, Designern, Programmierern und Kreativen, die digitale Produkte auf der Grundlage von offenen und eigenen Daten bauen, um der Allgemeinheit freie, kostenlose und innovative Dienste und Anwendungen bereitzustellen. Code für Hamburg ist eines von 25 deutschlandweit aktiven Labs von Code for Germany, einem Projekt der Open Knowledge Foundation Deutschland e.V.", thumb: require("../assets/img/veranstalter/logo-codeforhamburg.png")}
+            ],
+            bgImg: {
+                backgroundImage: `url(${require('../assets/img/slider/1.jpg')})`
+            }
+        }
+    }
+}
+</script>
+
+<style lang="scss">
+    @import '../assets/scss/variables.scss';
+    @import '../assets/scss/components/team.scss';
+</style>
