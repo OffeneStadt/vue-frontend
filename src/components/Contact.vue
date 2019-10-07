@@ -5,12 +5,29 @@
                 <div class="col-12">
                     <div class="section-title text-center" :class="['title-style-2 title-line-2', ContactStyle]">
                         <div class="title-icon" ></div>
-                        <h2 class="title">SUPPORT CLIENTS</h2>
-                        <p class="paragraph">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
+                        <h2 class="title">Kontakt</h2>
+                        <!--<p class="paragraph">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>-->
                     </div>
                 </div>
             </div>
             <div class="row support-container">
+                <GmapMap
+                :center="{lat:53.5434675, lng:9.9853118}"
+                :zoom="16"
+                map-type-id="terrain"
+                style="width: 650px; height: 560px"
+                >
+                <GmapMarker
+                    :key="index"
+                    v-for="(m, index) in markers"
+                    :position="m.position"
+                    :clickable="true"
+                    :draggable="true"
+                    @click="center=m.position"
+                />
+                </GmapMap>
+
+                <!--
                 <div class="col-md-8">
                     <form action="#" class="support-form">
                         <div class="input-box">
@@ -27,21 +44,30 @@
                         </div>
                     </form>
                 </div>
+                -->
                 <div class="col-md-4">
                     <div class="support-info text-center">
                         <div class="single-info">	
                             <div class="icon">
-                                <i class="fa fa-phone"></i>
+                                <i class="fa fa-map"></i>
                                 </div>
-                            <h6 class="support-title">telephones:</h6>
-                            <p>(+800) 123 456 789</p>
+                            <h6 class="support-title">Adresse:</h6>
+                            <p>Körber-Stiftung | Kehrwieder 12, 20457 Hamburg</p>
                         </div>
                         <div class="single-info">	
                             <div class="icon">
-                                <i class="fa fa-envelope-open-o "></i>
+                                <i class="fa fa-envelope-open-o"></i>
                                 </div>
-                            <h6 class="support-title">Address email:</h6>
-                            <p>demo@fantasic.com</p>
+                            <h6 class="support-title">eMail:</h6>
+                            <p>Julia Thomaschki | Code for Hamburg <br>
+                                julia@codeforhamburg.org</p>
+                        </div>
+                        <div class="single-info">	
+                            <div class="icon">
+                                <i class="fa fa-twitter "></i>
+                                </div>
+                            <h6 class="support-title">Twitter</h6>
+                            <p>#offenestadt19</p>
                         </div>
                     </div>
                 </div>
@@ -51,6 +77,8 @@
 </template>
 
 <script>
+
+
 export default {
     name: 'Contact',
     props: ["ContactStyle"],
@@ -58,7 +86,14 @@ export default {
         return {
             bgImg: {
                 backgroundImage: `url(${require('../assets/img/support-bg.jpg')})`
-            }
+            },
+            markers: [{
+                label:"ads",
+                position: {
+                lat: 53.543476,
+                lng: 9.983925
+                }
+          }]
         }
     }
 }

@@ -46,7 +46,7 @@
                     backgroundImage: `url(${require('../assets/img/slider/3.jpg')})`
                 },
                 sliders: [
-                    {sliderThumb: require("../assets/img/slider/1.jpg"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 
+                    {sliderThumb: require("../assets/img/slider/inside.png"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 
                     'Wie können uns offene digitale Lösungen dabei helfen, unsere Stadt und Region mitzugestalten? '
                     + 'Dieser Frage gehen wir in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung nach.'},
                 ]

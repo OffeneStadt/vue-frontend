@@ -24,25 +24,25 @@
         <Projekte />
 
         <!-- testimonial section -->
-        <Speaker />
+        <!--<Speaker />-->
 
         <!-- partner area -->
         <Partner />
 
         <!-- rueckblick area -->
-        <Rueckblick />
+        <!--<Rueckblick />-->
 
         <!-- veranstalter area -->
         <Veranstalter />
 
         <!-- video section -->
-        <Video />
+        <!--<Video />-->
 
         <!-- team section -->
         <Team />
 
         <!-- download section -->
-        <Download />
+        <!--<Download />-->
 
         <!-- contact section -->
         <Contact />

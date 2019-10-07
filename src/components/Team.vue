@@ -6,7 +6,7 @@
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
                         <h2 class="title">Team </h2>
-                        <p class="paragraph">Das Team hinter dem FORUM Offene Stadt.</p>
+                        <!--<p class="paragraph">Das Team hinter dem FORUM Offene Stadt.</p>-->
                     </div>
                 </div>
             </div>
@@ -17,7 +17,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="team-content text-center">
-                            <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>
+                           <!-- <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>-->
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                         >
                             <div v-for="(team, teams) in teams" :key="teams" class="team-member">
                                 <div class="member-thumb">
-                                    <img :src="team.thumb" alt="team thumb">
+                                    <img :src="team.thumb" alt="team thumb"  >
                                     <div class="member-content">
                                         <h6 class="title">{{ team.title }}</h6>
                                         <p class="designation">{{ team.designation }}</p>
@@ -65,13 +65,13 @@ export default {
         return {
             teams:[
                 {title: "Timo Lundelius", designation: "Gründer und Organisator | Code for Hamburg e.V.", thumb: require("../assets/img/team/timo.png")},
-                {title: "Hannes Hasenpatt", designation: "Designer", thumb: require("../assets/img/team/hannes.jpg")},
+                {title: "Hannes Hasenpatt", designation: "Körber-Stiftung", thumb: require("../assets/img/team/hannes.png")},
                 {title: "Julia Thomaschki", designation: "we-build.city", thumb: require("../assets/img/team/julia.jpg")},
                 {title: "Christian Wittig", designation: "we-build.city", thumb: require("../assets/img/team/christian.jpg")},
                 {title: "Sven Tetzlaff Fischer", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sven.jpg")}
             ],
             bgImg: {
-                backgroundImage: `url(${require('../assets/img/slider/1.jpg')})`
+                backgroundImage: `url(${require('../assets/img/slider/2.jpg')})`
             }
         }
     }
