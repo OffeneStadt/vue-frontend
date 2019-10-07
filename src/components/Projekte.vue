@@ -6,7 +6,7 @@
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
                         <h2 class="title">Projekte & Beiträge</h2>
-                        <p class="paragraph">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
+                        <!--<p class="paragraph">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>-->
                     </div>
                 </div>
             </div>

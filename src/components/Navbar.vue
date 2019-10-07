@@ -40,7 +40,7 @@
 			return {
                 load: false,
                 limitPosition: 200,
-                scrolled: false,
+                scrolled: true,
                 lastPosition: 500
 			}
 		},
@@ -72,7 +72,7 @@
                 }
                 
                 this.lastPosition = window.scrollY;
-                this.scrolled = window.scrollY > 50;
+                //this.scrolled = window.scrollY > 50; // uncomment to make menu transparent again
             }
         }, 
         created() {

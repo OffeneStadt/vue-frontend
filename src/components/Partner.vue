@@ -6,7 +6,7 @@
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
                         <h2 class="title">Partner</h2>
-                        <p class="paragraph">Unsere unterstützer</p>
+                        <!--<p class="paragraph">Unsere unterstützer</p>-->
                     </div>
                 </div>
             </div>
