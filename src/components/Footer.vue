@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <div class="footer-main dark-bg section-padding" :class="FooterStyle">
+        <!--<div class="footer-main dark-bg section-padding" :class="FooterStyle">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -16,7 +16,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>-->
         <div class="footer-bottom black-bg" :class="FooterStyle">
             <div class="container">
                 <div class="row">
