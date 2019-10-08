@@ -25,7 +25,7 @@
                             <li><a v-on:click="close_menu()" href="#veranstalter">Veranstalter</a></li>
                             <li><a v-on:click="close_menu()" href="#team">Team</a></li>
                             <!--<li><a v-on:click="close_menu()" href="#rueckblick">Rückblick 2018</a></li>-->
-                            <li><a v-on:click="close_menu()" href="#kontakt">Kontakt</a></li>
+                            <li><a v-on:click="close_menu()" href="#contact">Kontakt</a></li>
                         </ul>
                     </div>
                 </div>

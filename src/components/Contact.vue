@@ -1,5 +1,5 @@
 <template>
-    <section class="contact-area section-padding pt-100 fix" :style="bgImg" :class="ContactStyle" id="support">
+    <section class="contact-area section-padding pt-100 fix" :style="bgImg" :class="ContactStyle" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-12">
