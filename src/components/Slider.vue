@@ -18,7 +18,7 @@
                         <div class="col-xl-6 col-lg-7 col-md-7">
                             <div class="slider-content">
                                 <h2 class="slider-title">{{ slider.sliderTitle }}</h2>
-                                <p class="slider-desc" style="background-color: #1F446C">{{ slider.sliderDesc }}</p>
+                                <p class="slider-desc" style="background-color: rgb(31, 68, 108,0.8); padding: 10px">{{ slider.sliderDesc }}</p>
                                 <div class="slider-btn">
                                     <a href="#" class="read-more active"><i class="fa fa-meetup"></i> Anmeldung</a>
                                     <a href="#" class="read-more"><i class="fa fa-heart"></i> Open Apps</a>
