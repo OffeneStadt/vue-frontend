@@ -65,10 +65,10 @@ export default {
         return {
             teams:[
                 {title: "Timo Lundelius", designation: "Gründer und Organisator | Code for Hamburg e.V.", thumb: require("../assets/img/team/timo.png")},
-                {title: "Hannes Hasenpatt", designation: "Körber-Stiftung", thumb: require("../assets/img/team/hannes.png")},
-                {title: "Julia Thomaschki", designation: "we-build.city", thumb: require("../assets/img/team/julia.jpg")},
-                {title: "Christian Wittig", designation: "we-build.city", thumb: require("../assets/img/team/christian.jpg")},
-                {title: "Sven Tetzlaff Fischer", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sven.jpg")}
+                //{title: "Hannes Hasenpatt", designation: "Körber-Stiftung", thumb: require("../assets/img/team/hannes.png")},
+                {title: "Julia Thomaschki", designation: "we-build.city GmbH", thumb: require("../assets/img/team/julia.jpg")},
+                {title: "Christian Wittig", designation: "we-build.city GmbH", thumb: require("../assets/img/team/christian.jpg")},
+                //{title: "Sven Tetzlaff Fischer", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sven.jpg")}
             ],
             bgImg: {
                 backgroundImage: `url(${require('../assets/img/slider/2.jpg')})`

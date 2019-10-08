@@ -38,7 +38,7 @@
                         >
                             <div v-for="(member, veranstalter) in veranstalter" :key="veranstalter" class="veranstalter-member">
                                 <div class="member-thumb">
-                                    <img :src="member.thumb" alt="veranstalter thumb" height="300" style="background: rgba(255, 255, 255, 0.3);">
+                                    <img :src="member.thumb" alt="veranstalter thumb" height="300" style="background: rgba(255, 255, 255, 0.8);">
                                     <div class="member-content">
                                         <h6 class="title">{{ member.title }}</h6>
                                         <p class="designation">{{ member.designation }}</p>

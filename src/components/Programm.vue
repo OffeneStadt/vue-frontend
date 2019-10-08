@@ -1,5 +1,5 @@
 <template>
-    <section class="features-area section-padding pt-100 fix" id="projekte">
+    <section class="features-area section-padding pt-100 fix" id="programm">
         <div class="container">
             <div class="row">
                 <div class="col-12">
