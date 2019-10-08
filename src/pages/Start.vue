@@ -41,6 +41,9 @@
         <!-- team section -->
         <Team />
 
+         <!-- summit section -->
+        <Summit />
+
         <!-- download section -->
         <!--<Download />-->
 
@@ -67,6 +70,7 @@
     import Veranstalter from '../components/Veranstalter'
     import Video from '../components/Video'
     import Team from '../components/Team'
+    import Summit from '../components/Summit'
     import Download from '../components/Download'
     import Contact from '../components/Contact'
     import Footer from '../components/Footer'
@@ -87,6 +91,7 @@
             Veranstalter,
             Video,
             Team,
+            Summit,
             Download,
             Contact,
             Footer
