@@ -25,13 +25,15 @@
                             <p>Copyright © <a href="#">Fantasic</a>. All Rights Reserved</p>
                         </div>
                     </div>
+                    
                     <div class="col-md-6 order-1 order-md-2">
                         <div class="useful-link">
-                            <a href="#">Our Team</a>
-                            <a href="#">Sight Map</a>
-                            <a href="#">Sign In</a>
+                            <a href="/impressum">Impressum</a>
+                           <!--<a href="#">Sight Map</a>
+                            <a href="#">Sign In</a>-->
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>

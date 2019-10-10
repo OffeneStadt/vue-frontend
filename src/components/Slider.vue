@@ -20,7 +20,7 @@
                                 <h2 class="slider-title">{{ slider.sliderTitle }}</h2>
                                 <p class="slider-desc" style="background-color: rgb(31, 68, 108,0.8); padding: 10px">{{ slider.sliderDesc }}</p>
                                 <div class="slider-btn">
-                                    <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" target="_blank"><i class="fa fa-meetup"></i> Anmeldung</a>
+                                    <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" style="width: 100%; text-align:center;" target="_blank"><i class="fa fa-meetup"></i> Anmeldung</a>
                                 </div>
                             </div>
                         </div>

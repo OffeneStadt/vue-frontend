@@ -6,7 +6,7 @@
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
                         <h2 class="title">CfG Summit 2019</h2>
-                       <p class="paragraph">Code for Hamburg lädt die Code for Germany Community aus ganz Deutschland zum Code for Germany Summit 2019 ein. Mehr Infos & die Anmeldung fidet ihr <a href="https://codefor.de/summit/" target="_blank">hier</a></p>
+                       <p class="paragraph">Code for Hamburg lädt die Code for Germany Community aus ganz Deutschland zum <a href="https://codefor.de/summit/" target="_blank">Code for Germany Summit 2019</a> ein.</p>
                     </div>
                 </div>
             </div>

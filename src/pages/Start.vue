@@ -22,7 +22,7 @@
         <!--<Speaker />-->
 
         <!-- partner area -->
-        <Partner />
+        <!--<Partner />-->
 
         <!-- rueckblick area -->
         <!--<Rueckblick />-->
