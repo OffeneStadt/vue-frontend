@@ -10,15 +10,10 @@
 
         <!-- forum section -->
         <Forum />
-
-        <!-- best app section -->
-        <!--<Bestapp />-->
         
         <!-- programm app section -->
         <Programm />
 
-        <!-- features section -->
-        <!--<Features />-->
 
         <!-- projekte section -->
         <Projekte />
@@ -60,9 +55,7 @@
     import Navbar from '../components/Navbar'
     import Slider from '../components/Slider'
     import Forum from '../components/Forum'
-    //import Bestapp from '../components/Bestapp'
     import Programm from '../components/Programm'
-    //import Features from '../components/Features'
     import Projekte from '../components/Projekte'
     import Speaker from '../components/Speaker'
     import Partner from '../components/Partner'
@@ -74,6 +67,7 @@
     import Download from '../components/Download'
     import Contact from '../components/Contact'
     import Footer from '../components/Footer'
+    
 
     export default {
         name: 'app',
@@ -81,9 +75,7 @@
             Navbar,
             Slider,
             Forum,
-            //Bestapp,
             Programm,
-          //  Features,
             Partner,
             Projekte,
             Speaker,

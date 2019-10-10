@@ -7,9 +7,6 @@
         <!-- slider section -->
         <HeroBannerThree />
 
-        <!-- best app section -->
-        <BestappThree />
-
         <!-- feature style -->
         <FeaturesThree />
 
@@ -40,7 +37,6 @@
 <script>
     import Navbar from '../components/Navbar'
     import HeroBannerThree from '../components/HeroBannerThree'
-    import BestappThree from '../components/BestappThree'
     import FeaturesThree from '../components/FeaturesThree'
     import TestimonialThree from '../components/TestimonialThree'
     import ScreenshotTwo from '../components/ScreenshotTwo'
@@ -55,7 +51,6 @@
         components: {
             Navbar,
             HeroBannerThree,
-            BestappThree,
             FeaturesThree,
             TestimonialThree,
             ScreenshotTwo,
