@@ -15,27 +15,27 @@
                         <swiper :options="swiperOption">
                             <swiper-slide>
                                 <div class="scr-thumb">
-                                    <img src="../assets/img/screenshot/scr-1.jpg" alt="screenshot thumb">
+                                    <img src="../assets/img/veranstalter/CodeForHamburg.svg" alt="screenshot thumb">
                                 </div>
                             </swiper-slide>
                             <swiper-slide>
                                 <div class="scr-thumb">
-                                    <img src="../assets/img/screenshot/scr-2.jpg" alt="screenshot thumb">
+                                    <img src="../assets/img/veranstalter/CodeForHamburg.svg" alt="screenshot thumb">
                                 </div>
                             </swiper-slide>
                             <swiper-slide>
                                 <div class="scr-thumb">
-                                    <img src="../assets/img/screenshot/scr-3.jpg" alt="screenshot thumb">
+                                    <img src="../assets/img/veranstalter/CodeForHamburg.svg" alt="screenshot thumb">
                                 </div>
                             </swiper-slide>
                             <swiper-slide>
                                 <div class="scr-thumb">
-                                    <img src="../assets/img/screenshot/scr-2.jpg" alt="screenshot thumb">
+                                    <img src="../assets/img/veranstalter/CodeForHamburg.svg" alt="screenshot thumb">
                                 </div>
                             </swiper-slide>
                             <swiper-slide>
                                 <div class="scr-thumb">
-                                    <img src="../assets/img/screenshot/scr-3.jpg" alt="screenshot thumb">
+                                    <img src="../assets/img/veranstalter/CodeForHamburg.svg" alt="screenshot thumb">
                                 </div>
                             </swiper-slide>
                             <!-- Optional controls -->
