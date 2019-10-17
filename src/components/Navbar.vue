@@ -15,7 +15,7 @@
                             <span></span>
                         </div>
                         <ul id="menu">
-                            <li><a v-on:click="close_menu()" href="/#start">Start</a></li>
+                            <!--<li><a v-on:click="close_menu()" href="/#home">Start</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#forum">Forum 2019</a></li>
                             <!--<li><a v-on:click="close_menu()" href="#speaker">Redner*innen</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#programm">Programm</a></li>
