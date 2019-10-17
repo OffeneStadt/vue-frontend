@@ -56,6 +56,7 @@ export default {
                 {title:"LANDKREIS MARBURG-BIEDENKOPF", link:"https://www.marburg-biedenkopf.de/", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/offenestadt.png")},
                 {title:"OPEN KNOWLEDGE FOUNDATION", link:"https://okfn.de/", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/offenestadt.png")},
                 {title:"ATOMMÜLLATLAS", link:"https://atommuell-atlas.de/", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/atommuell_logo.png")},
+                {title:"POLITIK BEI UNS", link:"https://politik-bei-uns.de/", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/politik_bei_uns.png")},
             ]
         }
     }
