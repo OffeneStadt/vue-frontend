@@ -38,7 +38,7 @@
                         >
                             <div v-for="(team, teams) in teams" :key="teams" class="team-member">
                                 <div class="member-thumb">
-                                    <img :src="team.thumb" alt="team thumb"  >
+                                    <img :src="team.thumb" alt="team thumb" style="filter: grayscale(100%)" >
                                     <div class="member-content">
                                         <h6 class="title">{{ team.title }}</h6>
                                         <p class="designation">{{ team.designation }}</p>
@@ -64,11 +64,13 @@ export default {
     data (){
         return {
             teams:[
-                {title: "Timo Lundelius", designation: "Gründer und Organisator | Code for Hamburg e.V.", thumb: require("../assets/img/team/timo.png")},
-                //{title: "Hannes Hasenpatt", designation: "Körber-Stiftung", thumb: require("../assets/img/team/hannes.png")},
-                {title: "Julia Thomaschki", designation: "we-build.city GmbH", thumb: require("../assets/img/team/julia.jpg")},
-                {title: "Christian Wittig", designation: "we-build.city GmbH", thumb: require("../assets/img/team/christian.jpg")},
-                //{title: "Sven Tetzlaff Fischer", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sven.jpg")}
+                {title: "Timo Lundelius", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/timo.png")},
+                {title: "Sven Tetzlaff", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sven.jpg")},
+                {title: "Michael Peters", designation: "OKF DE e.V.", thumb: require("../assets/img/team/michael.jpg")},
+                {title: "Julia Thomaschki", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/julia.jpg")},
+                {title: "Hannes Hasenpatt", designation: "Körber-Stiftung", thumb: require("../assets/img/team/hannes.png")},
+                {title: "Feena Fensky", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/feena.jpg")},
+                {title: "Christian Wittig", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/christian.jpg")},
             ],
             bgImg: {
                 backgroundImage: `url(${require('../assets/img/slider/2.jpg')})`
