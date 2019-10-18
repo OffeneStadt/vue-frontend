@@ -22,13 +22,15 @@
                 <div class="row">
                     <div class="col-md-6 order-2 order-md-1">
                         <div class="copyright">
-                            <p>Copyright © <a href="#">Fantasic</a>. All Rights Reserved</p>
+                            <p>Erdacht und gemacht mit viel Ehrenamt von <b><a style="color: #659DD5" href="https://codeforhamburg.org/">&nbsp;Code for Hamburg&nbsp;</a></b> ❤</p>
                         </div>
                     </div>
                     
                     <div class="col-md-6 order-1 order-md-2">
                         <div class="useful-link">
-                            <a href="/impressum">Impressum</a>
+                            <router-link to="/impressum"><a>Impressum</a></router-link>
+                            <router-link to="/impressum#Datenschutz"><a>Datenschutzerklärung</a></router-link>
+           
                            <!--<a href="#">Sight Map</a>
                             <a href="#">Sign In</a>-->
                         </div>
