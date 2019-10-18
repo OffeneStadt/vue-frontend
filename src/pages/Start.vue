@@ -8,8 +8,8 @@
         <!-- slider section -->
         <Slider />
 
-        <!-- forum section -->
-        <Forum />
+        <!-- forum section 
+        <Forum />-->
         
         <!-- programm app section -->
         <Programm />

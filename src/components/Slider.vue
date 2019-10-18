@@ -17,10 +17,10 @@
                         </div>
                         <div class="col-xl-6 col-lg-7 col-md-7">
                             <div class="slider-content">
-                                <h2 class="slider-title">{{ slider.sliderTitle }}</h2>
-                                <p class="slider-desc" style="background-color: rgb(31, 68, 108,0.8); padding: 10px">{{ slider.sliderDesc }}</p>
+                                <h2 class="slider-title" style="background-color: rgb(31, 68, 108,0.8); padding: 8px">{{ slider.sliderTitle }}</h2>
+                                <p class="slider-desc" style="background-color: rgb(31, 68, 108,0.8); padding: 8px">{{ slider.sliderDesc }}</p>
                                 <div class="slider-btn">
-                                    <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" style="width: 100%; text-align:center;" target="_blank"><i class="fa fa-meetup"></i> Anmeldung</a>
+                                    <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" style="width: 100%; text-align:center; font-size:2.5em; font-weight: bold;" target="_blank">Anmeldung</a>
                                 </div>
                             </div>
                         </div>
@@ -42,10 +42,10 @@
         data (){
             return {
                 bgImg: {
-                    backgroundImage: `url(${require('../assets/img/slider/3.jpg')})`
+                    backgroundImage: `url(${require('../assets/img/slider/1.jpg')})`
                 },
                 sliders: [
-                    {sliderThumb: require("../assets/img/slider/inside.png"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 
+                    {sliderThumb: require("../assets/img/slider/inside3.png"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 
                     'Wie können uns offene digitale Lösungen dabei helfen, unsere Stadt und Region mitzugestalten? '
                     + 'Dieser Frage gehen wir in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung nach.'},
                 ]

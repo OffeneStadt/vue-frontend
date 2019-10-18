@@ -38,7 +38,7 @@
                         >
                             <div v-for="(member, veranstalter) in veranstalter" :key="veranstalter" class="veranstalter-member">
                                 <div class="member-thumb">
-                                    <img :src="member.thumb" alt="veranstalter thumb" height="300" style="background: rgba(255, 255, 255, 0.8);">
+                                    <img :src="member.thumb" alt="veranstalter thumb" height="200" style="background: rgba(255, 255, 255, 0.8);">
                                     <div class="member-content">
                                         <h6 class="title">{{ member.title }}</h6>
                                         <p class="designation">{{ member.designation }}</p>
@@ -69,7 +69,7 @@ export default {
                 {title: "Code for Hamburg", designation: "Code for Hamburg besteht seit Februar 2014 und ist eine Gruppe von ehrenamtlichen Datenarbeitern, Designern, Programmierern und Kreativen, die digitale Produkte auf der Grundlage von offenen und eigenen Daten bauen, um der Allgemeinheit freie, kostenlose und innovative Dienste und Anwendungen bereitzustellen. Code für Hamburg ist eines von 25 deutschlandweit aktiven Labs von Code for Germany, einem Projekt der Open Knowledge Foundation Deutschland e.V.", thumb: require("../assets/img/veranstalter/CodeForHamburg.svg")}
             ],
             bgImg: {
-                backgroundImage: `url(${require('../assets/img/slider/1.jpg')})`
+                backgroundImage: `url(${require('../assets/img/slider/3.jpg')})`
             }
         }
     }

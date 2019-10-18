@@ -67,7 +67,7 @@
                                 <i class="fa fa-twitter "></i>
                                 </div>
                             <h6 class="support-title">Twitter</h6>
-                            <p>#offenestadt19</p>
+                            <p>#offenestadt</p>
                         </div>
                     </div>
                 </div>
