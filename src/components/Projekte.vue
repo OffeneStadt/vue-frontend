@@ -40,6 +40,7 @@ export default {
     data () {
         return {
             features: [
+                {title:"POLITIK BEI UNS", link:"https://politik-bei-uns.de/", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/politik_bei_uns.png")},
                 {title:"OFFENER HAUSHALT", link:"https://offenerhaushalt.de/", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/offenerhaushalt.png")},
                 {title:"URBAN PLATFORM", link:"https://www.hamburg.de/bsw/urban-data-hub/", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/urbanplatform.png")},
                 {title:"LUFTDATEN.INFO", link:"https://luftdaten.info", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/luftdaten.png")},
@@ -51,12 +52,12 @@ export default {
                 {title:"GOVDATA", link:"https://www.govdata.de/", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/govdata.png")},
                 {title:"FRAGDENSTAAT", link:"https://fragdenstaat.de/", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/fragdenstaat.png")},
                 //{title:"EINFACH KAUFEN", link:"", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/einfachkaufen.png")},
+                {title:"TRINKWASSER APP", link:"https://mmport.de", desc:"MetaMitfahrPort", thumb: require("../assets/img/projekte/MetaMitfahrPort.jpg")},
                 {title:"TRINKWASSER APP", link:"http://codeforhamburg.org/trinkwasser/#12/53.5411/9.9780", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/trinkwasserapp.jpg")},
                 {title:"WIR VERSILBERN DAS NETZ", link:"https://www.wegeausdereinsamkeit.de/internet-verstehen", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/Einsamkeit.png")},
-                {title:"LANDKREIS MARBURG-BIEDENKOPF", link:"https://www.marburg-biedenkopf.de/", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/offenestadt.png")},
-                {title:"OPEN KNOWLEDGE FOUNDATION", link:"https://okfn.de/", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/offenestadt.png")},
+                //{title:"LANDKREIS MARBURG-BIEDENKOPF", link:"https://www.marburg-biedenkopf.de/", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/offenestadt.png")},
+                //{title:"OPEN KNOWLEDGE FOUNDATION", link:"https://okfn.de/", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/offenestadt.png")},
                 {title:"ATOMMÜLLATLAS", link:"https://atommuell-atlas.de/", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/atommuell_logo.png")},
-                {title:"POLITIK BEI UNS", link:"https://politik-bei-uns.de/", desc:"Offene Gesellschaft", thumb: require("../assets/img/projekte/politik_bei_uns.png")},
             ]
         }
     }

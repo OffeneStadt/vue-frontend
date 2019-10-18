@@ -28,17 +28,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
+                        
                         <carousel class="veranstalter-carousel"
-                            :item = "3"
+                            :item = "2"
                             :nav = "false"
                             :dots = "false"
                             :autoplay = "true"
                             :smartSpeed = "1000"
-                            :responsive="{0:{items:1},576:{items:2},768:{items:3}}"
-                        >
+                            :responsive="{0:{items:1},576:{items:2}}">
                             <div v-for="(member, veranstalter) in veranstalter" :key="veranstalter" class="veranstalter-member">
                                 <div class="member-thumb">
-                                    <img :src="member.thumb" alt="veranstalter thumb" height="200" style="background: rgba(255, 255, 255, 0.8);">
+                                    <img :src="member.thumb" alt="veranstalter thumb" height="250" style="margin: 0 3px 0 3px; background: rgba(255, 255, 255, 0.8);">
                                     <div class="member-content">
                                         <h6 class="title">{{ member.title }}</h6>
                                         <p class="designation">{{ member.designation }}</p>
@@ -46,6 +46,7 @@
                                 </div>
                             </div>
                         </carousel>
+                    
                     </div>
                 </div>
             </div>
@@ -66,7 +67,7 @@ export default {
             veranstalter:[
                 {title: "Körber Stiftung", designation: "Die Körber-Stiftung stellt mit ihren operativen Projekten, Netzwerken und Kooperationspartnern derzeit drei aktuelle gesellschaftliche Herausforderungen in den Fokus: »Digitale Mündigkeit«, »Neue Lebensarbeitszeit« und »Russland in Europa«. 1959 von dem Unternehmer Kurt A. Körber ins Leben gerufen, ist die Stiftung heute von ihren Standorten Hamburg und Berlin aus national und international aktiv.", thumb: require("../assets/img/veranstalter/koerber-stiftung.svg")},
                 {title: "Open Knowledgement Foundation Deutschland", designation: "Die Open Knowledge Foundation Deutschland tritt als gemeinnütziger Verein bei Themen der digitalen Gesellschaft aktiv für die Rechte der Bürger ein. Dabei setzt sich die Organisation in ihren Projekten insbesondere für offenes Wissen, offene Daten, Transparenz und Beteiligung ein.", thumb: require("../assets/img/veranstalter/okf.svg")},
-                {title: "Code for Hamburg", designation: "Code for Hamburg besteht seit Februar 2014 und ist eine Gruppe von ehrenamtlichen Datenarbeitern, Designern, Programmierern und Kreativen, die digitale Produkte auf der Grundlage von offenen und eigenen Daten bauen, um der Allgemeinheit freie, kostenlose und innovative Dienste und Anwendungen bereitzustellen. Code für Hamburg ist eines von 25 deutschlandweit aktiven Labs von Code for Germany, einem Projekt der Open Knowledge Foundation Deutschland e.V.", thumb: require("../assets/img/veranstalter/CodeForHamburg.svg")}
+                //{title: "Code for Hamburg", designation: "Code for Hamburg besteht seit Februar 2014 und ist eine Gruppe von ehrenamtlichen Datenarbeitern, Designern, Programmierern und Kreativen, die digitale Produkte auf der Grundlage von offenen und eigenen Daten bauen, um der Allgemeinheit freie, kostenlose und innovative Dienste und Anwendungen bereitzustellen. Code für Hamburg ist eines von 25 deutschlandweit aktiven Labs von Code for Germany, einem Projekt der Open Knowledge Foundation Deutschland e.V.", thumb: require("../assets/img/veranstalter/CodeForHamburg.svg")}
             ],
             bgImg: {
                 backgroundImage: `url(${require('../assets/img/slider/3.jpg')})`
