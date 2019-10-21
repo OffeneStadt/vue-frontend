@@ -85,7 +85,7 @@ export default {
     data (){
         return {
             bgImg: {
-                backgroundImage: `url(${require('../assets/img/download-bg.jpg')})`
+                backgroundImage: `url(${require('../assets/img/download-bg-blue.jpg')})`
             },
             markers: [{
                 label:"ads",

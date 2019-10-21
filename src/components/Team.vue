@@ -65,7 +65,7 @@ export default {
         return {
             teams:[
                 {title: "Timo Lundelius", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/timo.jpg")},
-                {title: "Sven Tetzlaff", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sven.jpg")},
+                //{title: "Sven Tetzlaff", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sven.jpg")},
                 {title: "Michael Peters", designation: "OKF DE e.V.", thumb: require("../assets/img/team/michael.jpg")},
                 {title: "Julia Thomaschki", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/julia.jpg")},
                 {title: "Hannes Hasenpatt", designation: "Körber-Stiftung", thumb: require("../assets/img/team/hannes.jpg")},
