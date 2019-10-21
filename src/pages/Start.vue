@@ -18,8 +18,8 @@
         <!-- projekte section -->
         <Projekte />
 
-        <!-- testimonial section -->
-        <!--<Speaker />-->
+        <!-- speaker section -->
+        <Speaker />
 
         <!-- partner area -->
         <!--<Partner />-->

@@ -17,9 +17,9 @@
                         <ul id="menu">
                             <!--<li><a v-on:click="close_menu()" href="/#home">Start</a></li>-->
                            <!-- <li><a v-on:click="close_menu()" href="/#forum">Forum 2019</a></li>-->
-                            <!--<li><a v-on:click="close_menu()" href="#speaker">Redner*innen</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#programm">Programm</a></li>
                             <li><a v-on:click="close_menu()" href="/#projekte">Projekte</a></li>
+                            <li><a v-on:click="close_menu()" href="#speaker">Redner*innen</a></li>
                             <!--<li><a v-on:click="close_menu()" href="/#partner">Partner</a></li>-->
                             <!--<li><a v-on:click="close_menu()" href="#openapps">Open Apps</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#veranstalter">Veranstalter</a></li>
