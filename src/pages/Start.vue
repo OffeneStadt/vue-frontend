@@ -19,7 +19,7 @@
         <Projekte />
 
         <!-- speaker section -->
-        <Speaker />
+        <!--<Speaker />-->
 
         <!-- partner area -->
         <!--<Partner />-->
