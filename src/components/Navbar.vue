@@ -27,8 +27,7 @@
                             <li><a v-on:click="close_menu()" href="/#summit">CfG Summit</a></li>
                             <!--<li><a v-on:click="close_menu()" href="#rueckblick">Rückblick 2018</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#contact">Kontakt</a></li>
-                            <li><a style="height: 40px; background-color: red; padding: 5px; margin: 20px 0 0 0px; font-size: large" v-on:click="close_menu()" href="https://www.koerber-stiftung.de/?id=2393" target="_blank">Anmeldung</a></li>
-                            
+                            <li><a style="height: 40px; background-color: rgb(181, 33, 52); padding: 5px; margin: 20px 0 0 0px; font-size: large" v-on:click="close_menu()" href="https://www.koerber-stiftung.de/?id=2393" target="_blank">Anmeldung</a></li>
                         </ul>
                     </div>
                 </div>

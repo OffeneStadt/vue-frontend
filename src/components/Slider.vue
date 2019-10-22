@@ -24,9 +24,16 @@
                                 </div>
                             </div>
                         </div>
+                        
+                        <img :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="108" style="margin: 15px 3px 0 15px; background: rgba(255, 255, 255, 0.8);">  
+                        <img :src="require('../assets/img/veranstalter/okf.svg')" height="108" style="margin: 15px 3px 0 3px; background: rgba(255, 255, 255, 0.8);">  
+                        
                     </div>
                 </div>
+
+
             </div>
+            
             <!-- single slider end -->
         </carousel>
     </section>
@@ -42,12 +49,12 @@
         data (){
             return {
                 bgImg: {
-                    backgroundImage: `url(${require('../assets/img/slider/1b.jpg')})`
+                    backgroundImage: `url(${require('../assets/img/slider/1.jpg')})`
                 },
                 sliders: [
                     {sliderThumb: require("../assets/img/slider/inside3.png"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 
                     'Wie können uns offene digitale Lösungen dabei helfen, unsere Stadt und Region mitzugestalten? '
-                    + 'Dieser Frage gehen wir am 8. November in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung im Körber Forum nach. Mach mit #offenestadt '},
+                    + 'Dieser Frage gehen wir am 8. November in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung im KörberForum nach. Mach mit #offenestadt '},
                 ]
                 
             }

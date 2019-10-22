@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "offenestadt-develop2"
+    "default": "offenestadt-develop2",
+    "vorschau": "offenestadt-develop",
+    "prod": "offenestadt"
   }
 }
