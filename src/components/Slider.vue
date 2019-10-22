@@ -14,6 +14,10 @@
                             <div class="slider-thumb">
                                 <img :src="slider.sliderThumb" alt="slider thumb">
                             </div>
+                            <div style="float:left; margin: 20px 0 0 0">
+                                <img :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="108" style="margin: 1px; float: left; background: rgba(255, 255, 255, 0.8);">  
+                                <img :src="require('../assets/img/veranstalter/okf.svg')" height="108" style="margin: 1px; float: left; background: rgba(255, 255, 255, 0.8);">  
+                            </div>
                         </div>
                         <div class="col-xl-6 col-lg-7 col-md-7">
                             <div class="slider-content">
@@ -24,10 +28,6 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        <img :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="108" style="margin: 15px 3px 0 15px; background: rgba(255, 255, 255, 0.8);">  
-                        <img :src="require('../assets/img/veranstalter/okf.svg')" height="108" style="margin: 15px 3px 0 3px; background: rgba(255, 255, 255, 0.8);">  
-                        
                     </div>
                 </div>
 
