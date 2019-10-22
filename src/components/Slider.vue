@@ -47,7 +47,7 @@
                 sliders: [
                     {sliderThumb: require("../assets/img/slider/inside3.png"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 
                     'Wie können uns offene digitale Lösungen dabei helfen, unsere Stadt und Region mitzugestalten? '
-                    + 'Dieser Frage gehen wir in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung nach.'},
+                    + 'Dieser Frage gehen wir am 8. November in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung im Körber Forum nach. Mach mit #offenestadt '},
                 ]
                 
             }
