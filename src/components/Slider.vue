@@ -42,7 +42,7 @@
         data (){
             return {
                 bgImg: {
-                    backgroundImage: `url(${require('../assets/img/slider/1.jpg')})`
+                    backgroundImage: `url(${require('../assets/img/slider/1b.jpg')})`
                 },
                 sliders: [
                     {sliderThumb: require("../assets/img/slider/inside3.png"), sliderTitle: 'FORUM Offene Stadt 2019', sliderDesc: 
