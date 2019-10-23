@@ -12,7 +12,7 @@
             </div>
             <div class="row feature-item-inner" style="display:inline">
               <!-- <a :href="programmPDF" target="_blank"> -->
-                    <img :src="programmImage" alt="slider">
+                    <img :src="programmImage" alt="slider" class="zoom">
                 <!-- </a> -->
             </div>
         </div>
@@ -35,4 +35,8 @@ export default {
 <style lang='scss'>
     @import '../assets/scss/variables.scss';
     @import '../assets/scss/components/feature.scss';
+
+    .zoom:hover {
+        transform: scale(1.33);
+    }
 </style>
