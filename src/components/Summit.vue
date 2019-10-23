@@ -10,8 +10,9 @@
                     </div>
                 </div>
             </div>
-            <div class="row feature-item-inner">
-                <img :src="image" alt="slider thumb" class="center">
+            <div class="feature-item-inner" style="display:inline">
+
+                    <img :src="image" alt="slider thumb" class="center">
             </div>
         </div>
     </section>

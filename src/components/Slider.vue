@@ -10,16 +10,18 @@
             <div v-for="(slider, sliders) in sliders" :key="sliders" class="hero-slider-item">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-xl-6 col-lg-5 col-md-5">
-                            <div class="slider-thumb">
-                                <img :src="slider.sliderThumb" alt="slider thumb">
+                        <div class="col-xl-6 col-lg-6 col-md-6">
+                            <div class="">
+                                <img :src="slider.sliderThumb" alt="slider thumb" style="width: auto">
                             </div>
-                            <div style="float:left; margin: 20px 0 0 0">
-                                <img :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="108" style="margin: 1px; float: left; background: rgba(255, 255, 255, 0.8);">  
-                                <img :src="require('../assets/img/veranstalter/okf.svg')" height="108" style="margin: 1px; float: left; background: rgba(255, 255, 255, 0.8);">  
+                            
+                            <div style="float:left; margin: 20px 0 0 0;">
+                                <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="108" style="float: left; width: auto; margin: 1px; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/okf.svg')" height="108" style="float:left; width: auto; margin: 1px; background: rgba(255, 255, 255, 0.8);">  
                             </div>
+                            
                         </div>
-                        <div class="col-xl-6 col-lg-7 col-md-7">
+                        <div class="col-xl-6 col-lg-6 col-md-6">
                             <div class="slider-content">
                                 <h2 class="slider-title" style="background-color: rgb(31, 68, 108,0.8); padding: 8px">{{ slider.sliderTitle }}</h2>
                                 <p class="slider-desc" style="background-color: rgb(31, 68, 108,0.8); padding: 8px">{{ slider.sliderDesc }}</p>

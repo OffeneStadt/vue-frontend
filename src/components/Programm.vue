@@ -10,9 +10,9 @@
                     </div>
                 </div>
             </div>
-            <div class="row feature-item-inner">
+            <div class="row feature-item-inner" style="display:inline">
               <!-- <a :href="programmPDF" target="_blank"> -->
-                    <img :src="programmImage" alt="slider thumb" class="zoom">
+                    <img :src="programmImage" alt="slider">
                 <!-- </a> -->
             </div>
         </div>
@@ -26,7 +26,7 @@ export default {
     },
     data () {
         return {
-            programmImage: require("../assets/img/FOS19-Programm.png")
+            programmImage: require("../assets/img/FOS19-Programm.jpg")
         }
     }
 }
@@ -35,8 +35,4 @@ export default {
 <style lang='scss'>
     @import '../assets/scss/variables.scss';
     @import '../assets/scss/components/feature.scss';
-
-    .zoom:hover {
-  transform: scale(1.33);
-}
 </style>
