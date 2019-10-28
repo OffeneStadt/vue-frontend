@@ -11,9 +11,9 @@
                 </div>
             </div>
             <div class="row feature-item-inner" style="display:inline">
-              <!-- <a :href="programmPDF" target="_blank"> -->
+               <a href="FOS19-Programm.pdf" target="_blank">
                     <img :src="programmImage" alt="slider" class="zoom">
-                <!-- </a> -->
+                 </a> 
             </div>
         </div>
     </section>
@@ -26,7 +26,7 @@ export default {
     },
     data () {
         return {
-            programmImage: require("../assets/img/FOS19-Programm.jpg")
+            programmImage: require("../assets/img/FOS19-Programm.png")
         }
     }
 }
