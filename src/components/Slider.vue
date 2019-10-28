@@ -16,8 +16,8 @@
                             </div>
                             
                             <div style="float:left; margin: 20px 0 0 0;">
-                                <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="108" style="float: left; width: auto; margin: 1px; background: rgba(255, 255, 255, 0.8);">  
-                                <img  :src="require('../assets/img/veranstalter/okf.svg')" height="108" style="float:left; width: auto; margin: 1px; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="90" style="float: left; width: auto; margin: 1px; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/okf.svg')" height="90" style="float:left; width: auto; margin: 1px; background: rgba(255, 255, 255, 0.8);">  
                             </div>
                             
                         </div>

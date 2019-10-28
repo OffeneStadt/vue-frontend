@@ -5,8 +5,12 @@
         <!-- Navbar section -->
         <Navbar />
 
-        <!-- slider section -->
-        <Slider />
+        <!-- Hero Banner section -->
+        <HeroBannerThree />
+
+<!-- slider section 
+        <Slider />-->
+
 
         <!-- forum section 
         <Forum />-->
@@ -53,7 +57,7 @@
 
 <script>
     import Navbar from '../components/Navbar'
-    import Slider from '../components/Slider'
+    import HeroBannerThree from '../components/HeroBannerThree'
     import Forum from '../components/Forum'
     import Programm from '../components/Programm'
     import Projekte from '../components/Projekte'
@@ -67,13 +71,12 @@
     import Download from '../components/Download'
     import Contact from '../components/Contact'
     import Footer from '../components/Footer'
-    
 
     export default {
         name: 'app',
         components: {
             Navbar,
-            Slider,
+            HeroBannerThree,
             Forum,
             Programm,
             Partner,

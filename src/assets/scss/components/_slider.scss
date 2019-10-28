@@ -10,22 +10,22 @@
         height: 750px;
     }
     @media #{$lg-device, $md-device} {
-        height: 650px;
+        height: 750px;
     }
     @media #{$sm-device} {
-        height: 650px;
+        height: 750px;
     }
 }
 .hero-slider-item {
     display: flex;
     align-items: center;
-    height: 1100px;
+    height: 1200px;
     // responsive
     @media #{$xlmax-device} {
-        height: 750px;
+        height: 900px;
     }
     @media #{$lg-device, $md-device, $sm-device} {
-        height: 650px;
+        height: 900px;
     }
 }
 .slider {
@@ -117,12 +117,12 @@
 .hero-style-2 {
     // responsive
     @media #{$md-device} {
-        height: 680px;
+        height: 900px;
     }
 }
 .slider-banner-thumb {
     width: 400px;
-    margin-left: auto;
+    margin-left: unset;
     padding-top: 130px;
     transform: translateX(50px);
     // responsive
@@ -145,6 +145,6 @@
 .hero-style-3 {
     // responsive
     @media #{$md-device, $sm-device} {
-        height: 680px;
+        height: 900px;
     }
 }
