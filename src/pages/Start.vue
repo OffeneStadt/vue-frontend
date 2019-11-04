@@ -77,17 +77,17 @@
         components: {
             Navbar,
             HeroBannerThree,
-            Forum,
+            //Forum,
             Programm,
-            Partner,
+            //Partner,
             Projekte,
-            Speaker,
-            Rueckblick,
+            //Speaker,
+            //Rueckblick,
             Veranstalter,
-            Video,
+            //Video,
             Team,
             Summit,
-            Download,
+            //Download,
             Contact,
             Footer
         }
