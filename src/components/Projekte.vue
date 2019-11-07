@@ -67,6 +67,7 @@ export default {
                 {title:"Code for Hamburg Community Forum", link:"https://community.codeforhamburg.org/", desc:"", thumb: require("../assets/img/projekte/community forum.jpeg")},
                 {title:"URBAN DATA PLATFORM", link:"http://www.urbandataplatform.hamburg/", desc:"", thumb: require("../assets/img/projekte/logo urbandatahub.jpg")},
                 {title:"Luftdaten.info", link:"https://luftdaten.info", desc:"", thumb: require("../assets/img/projekte/luftdaten.png")},
+                {title:"GOVDATA", link:"https://www.govdata.de/", desc:"Offene Verwaltung", thumb: require("../assets/img/projekte/gov-data.png")},
                 {title:"FragDenStaat", link:"https://fragdenstaat.de", desc:"", thumb: require("../assets/img/projekte/fragdenstaat.png")},
                 {title:"LANDKREIS MARBURG-BIEDENKOPF", link:"https://www.marburg-biedenkopf.de/", desc:"", thumb: require("../assets/img/projekte/Landkreis_Marburg-Biedenkopf_Logo.svg")},
                 {title:"Open Knowledge Foundation Deutschland", link:"https://okfn.de", desc:"", thumb: require("../assets/img/projekte/Logo_okfde-3-316711_630x210.png")},
