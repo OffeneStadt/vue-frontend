@@ -6,13 +6,13 @@
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
                         <h2 class="title text-white">Redner*Innen</h2>
-                        <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
+                        <p></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    <carousel class="speaker-active owl-dot-style" :items = "1" :nav = "false" :smartSpeed = "1000">
+                    <carousel class="speaker-active owl-dot-style" :items = "3" :nav = "false" :smartSpeed = "1000">
                         <!-- speaker item start -->
                         <div v-for="(client, clients) in clients" :key="clients" class="speaker-item">
                             <div class="speaker-thumb">
@@ -56,7 +56,15 @@ export default {
                 {clientThumb: require("../assets/img/speaker/michael_peters.jpg"), name: "Michael Peters", designation: "OKF DE", desc: "Fünf Jahre Code for Germany – Fünf Jahre Digitales Ehrenamt"},
                 {clientThumb: require("../assets/img/speaker/juliane_krüger.jpg"), name: "Juliane Krüger", designation: "Mitorga. Bits & Bäume; OKF DE", desc: "Bits&Bäume: Wie Digitalisierung und Nachhaltigkeit zusammenhängen"},
                 {clientThumb: require("../assets/img/speaker/stefan_kaufmann.jpg"), name: "Stefan Kaufmann", designation: "Stadt Ulm", desc: "Offene Mobilitätskonzepte als Alternative für autonome Städte"},
-                {clientThumb: require("../assets/img/speaker/peter_bihr.jpg"), name: "Peter Bihr", designation: "Mitgründer ThingsCon e.V. Berlin", desc: "Abschlusspanel: „Zukunftsstädte: offen, inklusiv, datensouverän?!“"}
+                {clientThumb: require("../assets/img/speaker/peter_bihr.jpg"), name: "Peter Bihr", designation: "Mitgründer ThingsCon e.V. Berlin", desc: "Abschlusspanel: „Zukunftsstädte: offen, inklusiv, datensouverän?!“"},
+                {clientThumb: require("../assets/img/speaker/alexandra_kapp.jpg"), name: "Alexandra Kapp", designation: "Technologiestiftung Berlin", desc: "Barcamp: Offene Mobilitätskonzepte"},
+                {clientThumb: require("../assets/img/speaker/boris_hekele.png"), name: "Boris Hekele", designation: "FixMyBerlin", desc: "Barcamp: Offene Daten und zivilgesellschaftliche Beteiligung"},
+                {clientThumb: require("../assets/img/speaker/dykes_victoria.jpg"), name: "Victoria Dykes", designation: "Technologiestiftung Berlin", desc: "Barcamp: Offene Daten und zivilgesellschaftliche Beteiligung"},
+                {clientThumb: require("../assets/img/speaker/mario_wiedemann.jpg"), name: "Mario Wiedemann", designation: "Bertelsmann Stiftung - Musterdatenkatalog", desc: "Barcamp: Offene Daten und zivilgesellschaftliche Beteiligung"},
+                {clientThumb: require("../assets/img/speaker/maxi_richter.jpg"), name: "Maxi Richter", designation: "kleineAnfragen", desc: "Barcamp: Offene Daten und zivilgesellschaftliche Beteiligung"},
+                {clientThumb: require("../assets/img/speaker/cecile_lecomte.jpg"), name: "Cécile Lecomte", designation: "Robin Wood e.V.", desc: "Fachgespräch: Öffentliche Daten nützen - Umwelt schützen"}
+                
+
             ]
         }
     }

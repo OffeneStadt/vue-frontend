@@ -8,7 +8,7 @@
         <!-- Hero Banner section -->
         <HeroBannerThree />
 
-<!-- slider section 
+        <!-- slider section 
         <Slider />-->
 
 
@@ -23,7 +23,7 @@
         <Projekte />
 
         <!-- speaker section -->
-        <!--<Speaker />-->
+        <Speaker />
 
         <!-- partner area -->
         <!--<Partner />-->
@@ -34,8 +34,8 @@
         <!-- veranstalter area -->
         <Veranstalter />
 
-        <!-- video section -->
-        <!--<Video />-->
+        <!-- ressourcen section -->
+        <Ressourcen />
 
         <!-- team section -->
         <Team />
@@ -61,11 +61,11 @@
  //   import Forum from '../components/Forum'
     import Programm from '../components/Programm'
     import Projekte from '../components/Projekte'
-  //  import Speaker from '../components/Speaker'
+    import Speaker from '../components/Speaker'
   //  import Partner from '../components/Partner'
   //  import Rueckblick from '../components/Rueckblick'
     import Veranstalter from '../components/Veranstalter'
-  //  import Video from '../components/Video'
+    import Ressourcen from '../components/Ressourcen'
     import Team from '../components/Team'
     import Summit from '../components/Summit'
    // import Download from '../components/Download'
@@ -81,10 +81,10 @@
             Programm,
             //Partner,
             Projekte,
-            //Speaker,
+            Speaker,
             //Rueckblick,
             Veranstalter,
-            //Video,
+            Ressourcen,
             Team,
             Summit,
             //Download,

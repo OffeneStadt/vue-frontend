@@ -19,15 +19,16 @@
                            <!-- <li><a v-on:click="close_menu()" href="/#forum">Forum 2019</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#programm">Programm</a></li>
                             <li><a v-on:click="close_menu()" href="/#projekte">Projekte</a></li>
-                            <!--<li><a v-on:click="close_menu()" href="/#speaker">Redner*innen</a></li>-->
+                            <li><a v-on:click="close_menu()" href="/#speaker">Redner*innen</a></li>
                             <!--<li><a v-on:click="close_menu()" href="/#partner">Partner</a></li>-->
                             <!--<li><a v-on:click="close_menu()" href="#openapps">Open Apps</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#veranstalter">Veranstalter</a></li>
+                            <li><a v-on:click="close_menu()" href="/#ressourcen">Ressourcen</a></li>
                             <li><a v-on:click="close_menu()" href="/#team">Team</a></li>
                             <li><a v-on:click="close_menu()" href="/#summit">CfG Summit</a></li>
                             <!--<li><a v-on:click="close_menu()" href="#rueckblick">Rückblick 2018</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#contact">Kontakt</a></li>
-                            <li><a style="height: 40px; background-color: rgb(181, 33, 52); padding: 5px; margin: 20px 0 0 0px; font-size: large" v-on:click="close_menu()" href="https://www.koerber-stiftung.de/?id=2393" target="_blank">Anmeldung</a></li>
+                            <!--<li><a style="height: 40px; background-color: rgb(181, 33, 52); padding: 5px; margin: 20px 0 0 0px; font-size: large" v-on:click="close_menu()" href="https://www.koerber-stiftung.de/?id=2393" target="_blank">Anmeldung</a></li>-->
                         </ul>
                     </div>
                 </div>

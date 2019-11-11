@@ -25,9 +25,9 @@
                             <div class="slider-content">
                                 <h2 class="slider-title" style="background-color: rgb(31, 68, 108,0.8); padding: 8px">{{ slider.sliderTitle }}</h2>
                                 <p class="slider-desc" style="background-color: rgb(31, 68, 108,0.8); padding: 8px">{{ slider.sliderDesc }}</p>
-                                <div class="slider-btn">
+                                <!--<div class="slider-btn">
                                     <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" style="width: 100%; text-align:center; font-size:2.5em; font-weight: bold;" target="_blank">Anmeldung</a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </div>

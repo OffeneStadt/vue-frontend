@@ -18,8 +18,11 @@
                         <div class="slider-content slider-content__style-3">
                             <h2 class="slider-title"  style="background-color: rgb(31, 68, 108,0.8); padding: 8px">FORUM Offene Stadt 2019</h2>
                             <p class="slider-desc"  style="background-color: rgb(31, 68, 108,0.8); padding: 8px">Wie können uns offene digitale Lösungen dabei helfen, unsere Stadt und Region mitzugestalten? Dieser Frage gehen wir am 8. November in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung im KörberForum nach. Mach mit #offenestadt</p>
-                            <div class="slider-btn">
+                            <!--<div class="slider-btn">
                                 <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" style="width: 100%; text-align:center; font-size:2.5em; font-weight: bold;" target="_blank">Anmeldung</a>
+                            </div>-->
+                            <div class="slider-btn">
+                                <a href="https://twitter.com/OffeneStadt" class="read-more active" style="width: 100%; text-align:center; font-size:2.5em; font-weight: bold;" target="_blank">#OffeneStadt</a>
                             </div>
                         </div>
                     </div>
