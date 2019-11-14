@@ -35,7 +35,7 @@
         <Veranstalter />
 
         <!-- ressourcen section -->
-        <Ressourcen />
+        <!--<Ressourcen />-->
 
         <!-- team section -->
         <Team />
