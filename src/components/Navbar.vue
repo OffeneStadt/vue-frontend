@@ -23,7 +23,7 @@
                             <!--<li><a v-on:click="close_menu()" href="/#partner">Partner</a></li>-->
                             <!--<li><a v-on:click="close_menu()" href="#openapps">Open Apps</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#veranstalter">Veranstalter</a></li>
-                            <li><a v-on:click="close_menu()" href="/#ressourcen">Ressourcen</a></li>
+                            <!--<li><a v-on:click="close_menu()" href="/#ressourcen">Ressourcen</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#team">Team</a></li>
                             <li><a v-on:click="close_menu()" href="/#summit">CfG Summit</a></li>
                             <!--<li><a v-on:click="close_menu()" href="#rueckblick">Rückblick 2018</a></li>-->
