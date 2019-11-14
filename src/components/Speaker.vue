@@ -45,7 +45,7 @@ export default {
             },
             clients: [
                 {clientThumb: require("../assets/img/speaker/lothar_dittmer.jpg"), name: "Dr. Lothar Dittmer", designation: "Vorstand Körber", desc: "Begrüßung"},
-                {clientThumb: require("../assets/img/speaker/johanna_engman.png"), name: "Johanna Engman", designation: "CIO, Stadt Stockholm", desc: "Stockholm as smart and connected city / Stockholm als smarte und vernetzte Stadt && Abschlusspanel: „Zukunftsstädte: offen,inklusiv, datensouverän?!“"},
+                {clientThumb: require("../assets/img/speaker/johanna_engman.png"), name: "Johanna Engman", designation: "CIO, Stadt Stockholm", desc: "Stockholm as smart and connected city / Stockholm als smarte und vernetzte Stadt && Abschlusspanel: „Zukunftsstädte: offen, inklusiv, datensouverän?!“"},
                 {clientThumb: require("../assets/img/speaker/katja_günther.jpg"), name: "Katja Günther", designation: "Staatsrätin, Stadt Hamburg", desc: "Wie kann uns das Transparenzgesetz dabei helfen, unsere Stadt selbst mitzugestalten?"},
                 {clientThumb: require("../assets/img/speaker/arne_semsrott.png"), name: "Arne Semsrott", designation: "Projektleiter FragdenStaat", desc: "Befreit die Daten! Wie Informationsfreiheit Partizipation ermöglicht"},
                 {clientThumb: require("../assets/img/speaker/tobias_plate.jpg"), name: "Dr. Tobias Plate", designation: "Bundeskanzleramt", desc: "Open Government vom Bund in die Länder und Kommunen?"},
@@ -62,9 +62,8 @@ export default {
                 {clientThumb: require("../assets/img/speaker/dykes_victoria.jpg"), name: "Victoria Dykes", designation: "Technologiestiftung Berlin", desc: "Barcamp: Offene Daten und zivilgesellschaftliche Beteiligung"},
                 {clientThumb: require("../assets/img/speaker/mario_wiedemann.jpg"), name: "Mario Wiedemann", designation: "Bertelsmann Stiftung - Musterdatenkatalog", desc: "Barcamp: Offene Daten und zivilgesellschaftliche Beteiligung"},
                 {clientThumb: require("../assets/img/speaker/maxi_richter.jpg"), name: "Maxi Richter", designation: "kleineAnfragen", desc: "Barcamp: Offene Daten und zivilgesellschaftliche Beteiligung"},
-                {clientThumb: require("../assets/img/speaker/cecile_lecomte.jpg"), name: "Cécile Lecomte", designation: "Robin Wood e.V.", desc: "Fachgespräch: Öffentliche Daten nützen - Umwelt schützen"}
-                
-
+                {clientThumb: require("../assets/img/speaker/cecile_lecomte.jpg"), name: "Cécile Lecomte", designation: "Robin Wood e.V.", desc: "Fachgespräch: Öffentliche Daten nützen - Umwelt schützen"},
+                {clientThumb: require("../assets/img/speaker/jayan_areekadan.jpg"), name: "Jayan Areekadan", designation: "Stadtlabor Köln", desc: "Barcamp: Offene Daten & Zivilgesellschaftliche Beteiligung"},
             ]
         }
     }
