@@ -29,7 +29,7 @@
         <!--<Partner />-->
 
         <!-- rueckblick area -->
-        <!--<Rueckblick />-->
+        <Rueckblick />
 
         <!-- veranstalter area -->
         <Veranstalter />
@@ -63,7 +63,7 @@
     import Projekte from '../components/Projekte'
     import Speaker from '../components/Speaker'
   //  import Partner from '../components/Partner'
-  //  import Rueckblick from '../components/Rueckblick'
+    import Rueckblick from '../components/Rueckblick'
     import Veranstalter from '../components/Veranstalter'
     import Ressourcen from '../components/Ressourcen'
     import Team from '../components/Team'
@@ -82,7 +82,7 @@
             //Partner,
             Projekte,
             Speaker,
-            //Rueckblick,
+            Rueckblick,
             Veranstalter,
             Ressourcen,
             Team,
