@@ -14,15 +14,15 @@
                         <div class="section-title text-center">
                             <div class="title-icon"></div>
                             <h2 class="title text-white">Ressourcen</h2>
-                            <p>Bilder, Videos und Slides von der Veranstaltung und unseren Redner*innen.</p>
+                            <p>Die Talks unserer Redner*innen und das Abschlusspanel findet ihr in der <a href="https://www.youtube.com/playlist?list=PL21YiU8i5e4FglIstTyBl7ukqedPcpaBo" target="_blank">Youtube-Playlist</a></p>
                         </div>
-                        <div class="bestapp-content-text pb-0">
+                        <!--<div class="bestapp-content-text pb-0">
                             <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>
                             <ul class="video-list">
                                 <li> <i class="fa fa-check-square-o"></i> Perfect layout</li>
                                 <li> <i class="fa fa-check-square-o"></i> Sweet moves</li>
                             </ul>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
         name: 'Ressourcen',
         data () {
             return {
-                ressourcen: "https://www.youtube-nocookie.com/embed/VcxBgq8uA1Q",
+                ressourcen: "https://www.youtube.com/embed/29mmdHURDec",
                 bgImg: {
                     backgroundImage: `url(${require('../assets/img/download-bg-blue.jpg')})`
                 }
