@@ -11,7 +11,9 @@
         <!-- slider section 
         <Slider />-->
 
-
+        <!-- ressourcen section -->
+        <Ressourcen />
+        
         <!-- forum section 
         <Forum />-->
         
@@ -34,8 +36,7 @@
         <!-- veranstalter area -->
         <Veranstalter />
 
-        <!-- ressourcen section -->
-        <Ressourcen />
+
 
         <!-- team section -->
         <Team />
