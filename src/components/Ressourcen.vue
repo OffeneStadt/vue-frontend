@@ -44,7 +44,7 @@
         name: 'Ressourcen',
         data () {
             return {
-                ressourcen: "https://www.youtube.com/embed/29mmdHURDec",
+                ressourcen: "https://www.youtube.com/embed/YL4pOe5VTqI",
                 bgImg: {
                     backgroundImage: `url(${require('../assets/img/download-bg-blue.jpg')})`
                 }
