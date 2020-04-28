@@ -59,8 +59,8 @@
                                 <i class="fa fa-envelope-open-o"></i>
                                 </div>
                             <h6 class="support-title">eMail:</h6>
-                            <p>Julia Thomaschki | Code for Hamburg <br>
-                                julia@codeforhamburg.org</p>
+                            <p>Code for Hamburg <br>
+                                info@codeforhamburg.org</p>
                         </div>
                         <div class="single-info">	
                             <div class="icon">
