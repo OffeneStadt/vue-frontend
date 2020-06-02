@@ -12,7 +12,7 @@
         <Slider />-->
 
         <!-- ressourcen section -->
-        <Ressourcen />
+        <!--<Ressourcen />-->
         
         <!-- forum section 
         <Forum />-->
@@ -31,7 +31,7 @@
         <!--<Partner />-->
 
         <!-- rueckblick area -->
-        <Rueckblick />
+        <!--<Rueckblick />-->
 
         <!-- veranstalter area -->
         <Veranstalter />
