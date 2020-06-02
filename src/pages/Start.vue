@@ -42,7 +42,7 @@
         <Team />
 
          <!-- summit section -->
-        <Summit />
+        <!--<Summit />-->
 
         <!-- download section -->
         <!--<Download />-->
