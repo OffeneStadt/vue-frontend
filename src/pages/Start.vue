@@ -18,14 +18,14 @@
         <Forum />-->
         
         <!-- programm app section -->
-        <Programm />
+        <!--<Programm />-->
 
 
         <!-- projekte section -->
-        <Projekte />
+        <!--<Projekte />-->
 
         <!-- speaker section -->
-        <Speaker />
+        <!--<Speaker />-->
 
         <!-- partner area -->
         <!--<Partner />-->
@@ -35,8 +35,6 @@
 
         <!-- veranstalter area -->
         <Veranstalter />
-
-
 
         <!-- team section -->
         <Team />

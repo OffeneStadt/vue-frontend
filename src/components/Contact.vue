@@ -53,7 +53,7 @@
                                 </div>
                             <h6 class="support-title">Adresse:</h6>
                             <p>Körber-Stiftung | Kehrwieder 12, 20457 Hamburg</p>
-                        </div>
+                        </div><!--
                         <div class="single-info">	
                             <div class="icon">
                                 <i class="fa fa-envelope-open-o"></i>
@@ -62,6 +62,7 @@
                             <p>Code for Hamburg <br>
                                 info@codeforhamburg.org</p>
                         </div>
+                        -->
                         <div class="single-info">	
                             <div class="icon">
                                 <i class="fa fa-twitter "></i>

@@ -5,21 +5,26 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-5 order-1 order-md-1">
                         <div class="slider-banner-thumb">
-                            <img src="../assets/img/slider/inside4.jpg">
+                            <img src="../assets/img/slider/inside5.png">
                             <div style="float:left; margin: 20px 0 0 0;">
-                                <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="65" style="float: left; width: auto; background: rgba(255, 255, 255, 0.8);">  
-                                <img  :src="require('../assets/img/veranstalter/okf.svg')" height="65" style="float:left; width: auto; background: rgba(255, 255, 255, 0.8);">  
-                                <img  :src="require('../assets/img/veranstalter/CFG.jpg')" height="65" style="float:left; width: auto; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="55" style="padding:6px;float: left; width: auto; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/okf.svg')" height="55" style="padding:2px;margin: 0px 4px 0px 4px;float:left; width: auto; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/CFG.svg')" height="55" style="padding:14px;float:left; width: auto; background: rgba(255, 255, 255, 0.8);">  
                             </div>
-                            <!--<img src="../assets/img/veranstalter/koerber-stiftung.svg" style="background: rgba(255, 255, 255, 0.8);">  
-                            <img src="../assets/img/veranstalter/okf.svg" style="background: rgba(255, 255, 255, 0.8);"> -->
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-7 order-2 order-md-2">
                         <div class="slider-content slider-content__style-3">
-                            <h2 class="slider-title"  style="background-color: rgb(31, 68, 108,0.8); padding: 8px">FORUM Offene Stadt 2020</h2>
-                            <p class="slider-desc"  style="background-color: rgb(31, 68, 108,0.8); padding: 8px">Wie können uns offene digitale Lösungen dabei helfen, unsere Stadt und Region mitzugestalten? Dieser Frage gehen wir am 8. November in unterhaltsamen Talks, praktischen Workshops und einer interaktiven Ausstellung im KörberForum nach. Mach mit #offenestadt</p>
-                            <div class="slider-btn">
+                            <h2 class="slider-title"  style="background-color: rgb(31, 68, 108,0.8); padding: 15px">SAVE THE DATE</h2>
+                            <p class="slider-desc"  style="background-color: rgb(31, 68, 108,0.8); padding: 15px; font-size:0.9em">
+                                Die Körber Stiftung und Code for Germany, ein Projekt der Open Knowledge Foundation Deutschland, laden wieder zum Forum Offene Stadt nach Hamburg ein. <br />
+                                In diesem Jahr richtet sich der thematische Fokus auf die Gestaltung der digitalen Stadt der Zukunft. Was braucht es dafür, wie können Bürgerinnen und Bürger beteiligt werden, bei wem finden die Städte Unterstützung und wie kann die Digitalisierung den Verwaltungen dabei helfen, mit Herausforderungen wie der Corona- und Klimakrise umzugehen? <br />
+                                Diesen und weiteren Fragen möchten wir gemeinsam in Impulsvorträgen, Workshops und Hintergrundgesprächen nachgehen und mit Ihnen von Best-Practice-Beispielen aus Deutschland und darüber hinaus lernen. <br />
+                                Weitere Informationen zum Programm finden Sie in Kürze hier und auf den Kommunikationskanälen der Körber-Stiftung und von Code for Germany.<br />
+                                Wenn aufgrund der aktuellen Entwicklungen eine Veranstaltung vor Ort nicht möglich ist, wird es eine digitale Veranstaltung geben.<br /><br />
+                                Wir freuen uns auf Sie!
+                            </p>
+                            <div class="slider-btn" style="margin-top: 50px">
                                 <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" style="width: 100%; text-align:center; font-size:2.5em; font-weight: bold;" target="_blank">Anmeldung</a>
                             </div>
                             <!--
