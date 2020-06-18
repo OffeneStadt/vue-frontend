@@ -7,9 +7,9 @@
                         <div class="slider-banner-thumb">
                             <img src="../assets/img/slider/inside5.png">
                             <div style="float:left; margin: 20px 0 0 0;">
-                                <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="55" style="padding:6px;float: left; width: auto; background: rgba(255, 255, 255, 0.8);">  
-                                <img  :src="require('../assets/img/veranstalter/okf.svg')" height="55" style="padding:2px;margin: 0px 4px 0px 4px;float:left; width: auto; background: rgba(255, 255, 255, 0.8);">  
-                                <img  :src="require('../assets/img/veranstalter/CFG.svg')" height="55" style="padding:14px;float:left; width: auto; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="55" width="130" style="padding:6px; margin-right:2px;float: left; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/okf.svg')" height="55" width="130" style="padding:4px; margin-right:2px;float:left; background: rgba(255, 255, 255, 0.8);">  
+                                <img  :src="require('../assets/img/veranstalter/CFG.svg')" height="55" width="130" style="padding:4px;float:left; background: rgba(255, 255, 255, 0.8);">  
                             </div>
                         </div>
                     </div>
