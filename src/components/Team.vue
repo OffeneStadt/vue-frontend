@@ -6,7 +6,7 @@
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
                         <h2 class="title">Team </h2>
-                        <!--<p class="paragraph">Das Team hinter dem FORUM Offene Stadt.</p>-->
+                        <!--<p class="paragraph">Das Team hinter dem Forum Offene Stadt.</p>-->
                     </div>
                 </div>
             </div>
@@ -64,7 +64,9 @@ export default {
     data (){
         return {
             teams:[
+                {title: "Claudia Jach", designation: "Open Knowledge Foundation DE e.V.", thumb: require("../assets/img/team/claudia.jpg")},
                 {title: "Timo Lundelius", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/timo.jpg")},
+                {title: "Adriana Groh", designation: "Open Knowledge Foundation DE e.V.", thumb: require("../assets/img/team/adriana.jpg")},
                 //{title: "Sven Tetzlaff", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sven.jpg")},
                 //{title: "Michael Peters", designation: "Open Knowledge Foundation DE e.V.", thumb: require("../assets/img/team/michael.jpg")},
                 //{title: "Julia Thomaschki", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/julia.jpg")},

@@ -51,7 +51,7 @@
                             <div class="icon">
                                 <i class="fa fa-map"></i>
                                 </div>
-                            <h6 class="support-title">Adresse:</h6>
+                            <h6 class="support-title">Postanschrift:</h6>
                             <p>Körber-Stiftung | Kehrwieder 12, 20457 Hamburg</p>
                         </div><!--
                         <div class="single-info">	

@@ -5,7 +5,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-5 order-1 order-md-1">
                         <div class="slider-banner-thumb">
-                            <img src="../assets/img/slider/inside5.png">
+                            <img src="../assets/img/slider/inside6.png">
                             <div style="float:left; margin: 20px 0 0 0;">
                                 <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="55" width="130" style="padding:6px; margin-right:2px;float: left; background: rgba(255, 255, 255, 0.8);">  
                                 <img  :src="require('../assets/img/veranstalter/okf.svg')" height="55" width="130" style="padding:4px; margin-right:2px;float:left; background: rgba(255, 255, 255, 0.8);">  
@@ -21,8 +21,8 @@
                                 In diesem Jahr richtet sich der thematische Fokus auf die Gestaltung der digitalen Stadt der Zukunft. Was braucht es dafür, wie können Bürgerinnen und Bürger beteiligt werden, bei wem finden die Städte Unterstützung und wie kann die Digitalisierung den Verwaltungen dabei helfen, mit Herausforderungen wie der Corona- und Klimakrise umzugehen? <br />
                                 Diesen und weiteren Fragen möchten wir gemeinsam in Impulsvorträgen, Workshops und Hintergrundgesprächen nachgehen und mit Ihnen von Best-Practice-Beispielen aus Deutschland und darüber hinaus lernen. <br />
                                 Weitere Informationen zum Programm finden Sie in Kürze hier und auf den Kommunikationskanälen der Körber-Stiftung und von Code for Germany.<br />
-                                Wenn aufgrund der aktuellen Entwicklungen eine Veranstaltung vor Ort nicht möglich ist, wird es eine digitale Veranstaltung geben.<br /><br />
-                                Wir freuen uns auf Sie!
+                                Aufgrund der aktuellen Entwicklungen wird die Veranstaltung remote stattfinden.<br /><br />
+                                Wir freuen uns auf Sie! 
                             </p>
                             <div class="slider-btn" style="margin-top: 50px">
                                 <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" style="width: 100%; text-align:center; font-size:2.5em; font-weight: bold;" target="_blank">Anmeldung</a>
