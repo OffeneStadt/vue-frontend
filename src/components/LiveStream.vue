@@ -1,5 +1,16 @@
 <template>
     <section class="team-area pt-100 section-padding fix" id="livestream">
+              <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title text-center">
+                        <div class="title-icon"></div>
+                        <h2 class="title">LiveStream </h2>
+                        <p class="paragraph">Verfügbar ab dem 6.November 9:30 Uhr</p>
+                    </div>
+                </div>
+            </div>
+        </div>
       <div class="container">
         <div class="row">
           <div class="col-12" style="text-align:center">
