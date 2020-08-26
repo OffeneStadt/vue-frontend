@@ -72,6 +72,7 @@ export default {
                 //{title: "Julia Thomaschki", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/julia.jpg")},
                 {title: "Hannes Hasenpatt", designation: "Körber-Stiftung", thumb: require("../assets/img/team/hannes2.jpg")},
                 {title: "Feena Fensky", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/feena.jpg")},
+                {title: "Natalia Brühl", designation: "Open Knowledge Foundation DE e.V.", thumb: require("../assets/img/team/natalia.jpg")},
                 //{title: "Christian Wittig", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/christian.jpg")},
             ],
             bgImg: {

@@ -34,7 +34,7 @@
         <!--<Rueckblick />-->
 
         <!-- Livestream -->
-        <LiveStream />
+        <!--<LiveStream />-->
 
         <!-- veranstalter area -->
         <Veranstalter />
