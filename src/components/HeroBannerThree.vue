@@ -17,7 +17,7 @@
                         <div class="slider-content slider-content__style-3">
                             <h2 class="slider-title"  style="background-color: rgb(31, 68, 108,0.8); padding: 15px">SAVE THE DATE</h2>
                             <p class="slider-desc"  style="background-color: rgb(31, 68, 108,0.8); padding: 15px; font-size:0.9em">
-                                Die Körber Stiftung und Code for Germany, ein Projekt der Open Knowledge Foundation Deutschland, laden wieder zum Forum Offene Stadt nach Hamburg ein. <br />
+                                Die Körber-Stiftung und Code for Germany, ein Projekt der Open Knowledge Foundation Deutschland, laden wieder zum Forum Offene Stadt nach Hamburg ein. <br />
                                 In diesem Jahr richtet sich der thematische Fokus auf die Gestaltung der digitalen Stadt der Zukunft. Was braucht es dafür, wie können Bürgerinnen und Bürger beteiligt werden, bei wem finden die Städte Unterstützung und wie kann die Digitalisierung den Verwaltungen dabei helfen, mit Herausforderungen wie der Corona- und Klimakrise umzugehen? <br />
                                 Diesen und weiteren Fragen möchten wir gemeinsam in Impulsvorträgen, Workshops und Hintergrundgesprächen nachgehen und mit Ihnen von Best-Practice-Beispielen aus Deutschland und darüber hinaus lernen. <br />
                                 Weitere Informationen zum Programm finden Sie in Kürze hier und auf den Kommunikationskanälen der Körber-Stiftung und von Code for Germany.<br />
