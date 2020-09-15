@@ -6,7 +6,7 @@
                     <div class="menu-wrap">
                         <div class="brand-logo">
                             <a href="#">
-                                <img src="../assets/img/logo/small-logo.png" alt="Forum Offene Stadt | Logo">
+                                <img src="../assets/img/logo/small-logo_alternativ.png" alt="Forum Offene Stadt | Logo">
                             </a>
                         </div>
                         <div id="hamburger" v-on:click="display_menu()">
@@ -23,7 +23,7 @@
                             <!--<li><a v-on:click="close_menu()" href="/#partner">Partner</a></li>-->
                             <!--<li><a v-on:click="close_menu()" href="#openapps">Open Apps</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#veranstalter">Veranstalter</a></li>
-                            <li><a v-on:click="close_menu()" href="/#ressourcen">Ressourcen</a></li>
+                            <!--<li><a v-on:click="close_menu()" href="/#ressourcen">Ressourcen</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#team">Team</a></li>
                             <!--<li><a v-on:click="close_menu()" href="/#summit">CfG Summit</a></li>-->
                             <li><a v-on:click="close_menu()" href="/rueckblick">Rückblick 2019</a></li>
