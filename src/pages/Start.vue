@@ -38,6 +38,9 @@
 
         <!-- veranstalter area -->
         <Veranstalter />
+        
+        <!-- programm app section -->
+        <ProgrammOverview />
 
         <!-- team section -->
         <Team />
@@ -62,6 +65,7 @@
     import HeroBannerThree from '../components/HeroBannerThree'
  //   import Forum from '../components/Forum'
     import Programm from '../components/Programm'
+    import ProgrammOverview from '../components/ProgrammOverview'
     import LiveStream from '../components/LiveStream'
     import Projekte from '../components/Projekte'
     import Speaker from '../components/Speaker'
@@ -83,6 +87,7 @@
             LiveStream,
             //Forum,
             Programm,
+            ProgrammOverview,
             //Partner,
             Projekte,
             Speaker,

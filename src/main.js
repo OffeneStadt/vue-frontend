@@ -1,7 +1,8 @@
-import Vue from 'vue';
-import App from './App.vue';
+import Vue from 'vue'
+import App from './App.vue'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import VueRouter from 'vue-router'
+import bootstrap from 'bootstrap'
 import * as VueGoogleMaps from 'vue2-google-maps'
 
 Vue.use(VueRouter)

@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="row support-container">
-                <GmapMap
+               <!-- <GmapMap
                 :center="{lat:53.5434675, lng:9.9853118}"
                 :zoom="16"
                 map-type-id="terrain"
@@ -25,7 +25,7 @@
                     :draggable="true"
                     @click="center=m.position"
                 />
-                </GmapMap>
+                </GmapMap>-->
 
                 <!--
                 <div class="col-md-8">
@@ -45,7 +45,7 @@
                     </form>
                 </div>
                 -->
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="support-info text-center">
                         <div class="single-info">	
                             <div class="icon">
@@ -53,16 +53,11 @@
                                 </div>
                             <h6 class="support-title">Postanschrift:</h6>
                             <p>Körber-Stiftung | Kehrwieder 12, 20457 Hamburg</p>
-                        </div><!--
-                        <div class="single-info">	
-                            <div class="icon">
-                                <i class="fa fa-envelope-open-o"></i>
-                                </div>
-                            <h6 class="support-title">eMail:</h6>
-                            <p>Code for Hamburg <br>
-                                info@codeforhamburg.org</p>
                         </div>
-                        -->
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="support-info text-center">
                         <div class="single-info">	
                             <div class="icon">
                                 <i class="fa fa-twitter "></i>
