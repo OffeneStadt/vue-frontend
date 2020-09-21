@@ -15,7 +15,7 @@
 
         <div class="container">
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">10:00 - 10:15 Uhr</div>
                 <div class="col-12" data-toggle="modal" data-target="#speaker1" style="cursor:pointer">
                     <h2 class="text-center">Begrüßung</h2>
@@ -28,10 +28,20 @@
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                 </div>
                                 <div class="modal-body">
-                                    <img src="../assets/img/speaker2020/katharina-meyer.jpg"/>
-                                    <img src="../assets/img/speaker2020/henriette-litta.jpg"/>
+                                    <img src="../assets/img/speaker2020/katharina-meyer.jpg" height="400"/>
+                                    <h6>Katharina Meyer</h6>
                                     <p class="paragraph">
-                                        Lorem Ipsum
+                                        Katharina leitet die wissenschaftliche Begleitforschung zu technologischen Kontexten, Innovationsprozessen sowie Evaluation des Programms und kümmert sich um die Weiterentwicklung des Netzwerks. Als Technik- und Wissenschaftshistorikerin interessiert sie sich besonders für soziale Entwicklungsumgebungen. Sie war Fellow am Center for Advanced Internet Studies, Wissenschaftliche Mitarbeiterin am Centre for Digital Cultures und Projektleitung für Digitale Geisteswissenschaften bei der OKFN.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/unbekannt.png"/>
+                                    <h6>Lothar Dittmer</h6>
+                                    <p class="paragraph">
+                                        Dr. Lothar Dittmer ist Vorstandsvorsitzender der Körber-Stiftung. Nach dem Geschichts-, Germanistik- und Pädagogikstudium promovierte er anschließend zum Thema der preußischen Geschichte im 19. Jahrhundert. Bevor er 1994 zur Körber-Stiftung kam, arbeitete er an verschiedenen beruflichen Stationen im Bereich der Erwachsenenbildung. Später war er Dozent und stellvertretender Leiter an der Akademie Biggesee. Seit 1994 ist er Mitarbeiter der Körber-Stiftung. 2008 wurde er in deren Vorstand berufen. Zum 01.05.2015 wurde er zum Vorsitzenden des Vorstands der Körber-Stiftung berufen.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/henriette-litta.jpg"/>
+                                    <h6>Henriette Litta</h6>
+                                    <p class="paragraph">
+                                        Dr. Henriette Litta ist Geschäftsführerin der gemeinnützigen Open Knowledge Foundation Deutschland. Unser Ziel ist es, die digitale Mündigkeit der Bürger:innen in der Demokratie zu stärken, Partizipation zu ermöglichen und den ethischen Umgang mit Technologie zu unterstützen. Nur wer Technologie versteht, kann sie mitgestalten. Henriette ist es wichtig, gute Ideen aus der Zivilgesellschaft in den gesellschaftspolitischen Raum zu bringen und damit Wirkung zu erzeugen. Sie hat den Wahl-O-Mat mit erfunden, war während der Gründungsphase bei der Hertie School of Governance tätig sowie in der wissenschaftlichen Politikberatung beim Sachverständigenrat für Migration.
                                     </p>
                                 </div>
                             </div>
@@ -40,7 +50,7 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">10:15 - 10:35 Uhr</div>
                 <div class="col-12" data-toggle="modal" data-target="#speaker2" style="cursor:pointer">
                     <h2 class="text-center">Keynote - The Democratic Challenge of Technology: <br />Growing Politics of    Collective Care in Our Cities</h2>
@@ -57,8 +67,9 @@
                                 </div>
                                 <div class="modal-body">
                                     <img src="../assets/img/speaker2020/bianca-wylie.jpg"/>
+                                    <h6>Bianca Wylie</h6>
                                     <p class="paragraph">
-                                    Lorem Ipsum
+                                        Bianca is an open government advocate with a dual background in technology and public engagement. Her main areas of interest are democracy and public sector technology. She focuses on issues of cities, digital infrastructure, and procurement.
                                     </p>
                                 </div>
                             </div>
@@ -67,7 +78,7 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">10:40 - 11:25 Uhr</div>
                 <div class="col-12" data-toggle="modal" data-target="#speaker3" style="cursor:pointer">
                     <h2 class="text-center">Paneldiskussion</h2>
@@ -78,14 +89,29 @@
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h6 class="modal-title">Frauke Janßen, Sabine Maigel, Matthias Punz, Timo Lundelius</h6>
+                                    <h6 class="modal-title">Frauke Janßen, Sabine Meigel, Matthias Punz, Timo Lundelius</h6>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                 </div>
                                 <div class="modal-body">
-                                    <img src="../assets/img/speaker2020/sabine-meigel.jpg"/>
-                                    <img src="../assets/img/speaker2020/timo-lundelius.jpg"/>
+                                    <img src="../assets/img/speaker2020/unbekannt.png"/>
+                                    <h6>Frauke Janßen</h6>
                                     <p class="paragraph">
-                                        Lorem Ipsum
+                                        Frauke Janßen studierte Politikwissenschaft, Neuere Geschichte und Religionswissenschaft in Jena, Potsdam und Budapest. Im Anschluss war sie sechs Jahre bei der Bundes-SGK tätig (Sozialdemokratische Gemeinschaft für Kommunalpolitik in der Bundesrepublik Deutschland e.V.). Seit 2017 ist sie beim Deutschen Städtetag, inzwischen als Beauftragte für Digitalisierung. Frauke interessiert sich für alle Fragen rund um die digitale Transformation in Städten, Arbeitswelt und Gesellschaft.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/sabine-meigel.jpg"/>
+                                    <h6>Sabine Meigel</h6>
+                                    <p class="paragraph">
+                                        Sabine Meigel, studierte Landschaftsökologie an der TU München und Geoinformatik an der Uni Salzburg. Nach fünfjähriger Projektleitung für den Einsatz von geographischen Informationssystemen im Bereich nachhaltiger Stadtentwicklung in München, leitete sie neun Jahre den Bereich geographische Informationssysteme für die Region Donau-Iller. Als Geschäftsstellenleitung kümmerte sie sich bis 2014 um die ersten IT Pilotprojekte für die Stadt Ulm 2.0 und in Brüssel um den Themenbereich Digitalisierung auf europäischer Ebene für die Region Stuttgart. Seit Anfang 2018 leitet sie die neugegründete Geschäftsstelle Digitale Agenda der Stadt Ulm mit den Projekten Verschwörhaus, Zukunftsstadt 2030 und Zukunftskommune@bw und koordiniert das Förderprojekt "Smart city" des BMI. Ehrenamtlich ist sie seit 2015 Jurymitglied bei Jugend forscht.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/unbekannt.png"/>
+                                    <h6>Matthias Punz</h6>
+                                    <p class="paragraph">
+                                        Folgt in Kürze.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/timo-lundelius.jpg"/>
+                                    <h6>Timo Lundelius</h6>
+                                    <p class="paragraph">
+                                        Timo Lundelius, 35, liebt offene Digitalisierung, offene Daten und offene Software. Glaubt an die Machht der Zivilgesellschaft setzt sich sehr gerne dafür ein. Damit das gut wird, mussten in den letzten Jahren verschiedenste Projekte begründet werden. Lundelius wurde Gründer und Vorstand der Neues Amt Altona eG, geschäftsführender Gesellschafter der We-Build.City GmbH, Gründer und Lab Lead des Code for Hamburg e.V. Labs sowie Gründer des FORUMs Offene Stadt.
                                     </p>
                                 </div>
                             </div>
@@ -94,7 +120,7 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">12:55 - 13:30 Uhr</div>
                 <div class="col-6" data-toggle="modal" data-target="#speaker4" style="cursor:pointer">
                     <h2 class="text-center">Workshop - Offene Daten nutzen</h2>
@@ -113,6 +139,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <img src="../assets/img/speaker2020/knut-perseke.jpg"/>
+                                    <h6>Knut Perseke</h6>
                                     <p class="paragraph">
                                         Knut arbeitet als Webentwickler für verschiedene Organisationen und setzt sich seit 2015 für offene Daten in verschiedenen Kontexten wie z.B. offene Kulturdaten ein. Er arbeiteite unter anderem an datengetriebenen Projekten wie jedeschule.de, offenesparlament.de oder transparenzranking.de
                                     </p>
@@ -137,8 +164,14 @@
                                 </div>
                                 <div class="modal-body">
                                     <img src="../assets/img/speaker2020/maria-haberer.jpg"/>
+                                    <h6>Maria Haberer</h6>
                                     <p class="paragraph">
-                                        Lorem Ipsum
+                                        Maria Haberer beschäftigt sich seit einigen Jahren mit dem Einsatz digitaler Beteiligungsplattformen für eine Stärkung der Zivilgesellschaft. Während ihres Forschungsaufenthaltes in Barcelona an der Universitat Oberta de Catalunya (UOC) hat sie sich mit Plattformen wie Liquid Feedback und Decidim Barcelona auseinandergesetzt und aus einer nutzerzentrierten Perspektive untersucht.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/unbekannt.png"/>
+                                    <h6>Kuno Zscharnack</h6>
+                                    <p class="paragraph">
+                                        Kuno Zscharnack engagiert sich seit vielen Jahren mit verschiedenen Gruppen kreativ stadtpolitisch, zuletzt erfolgreich etwa beim Aufbau der AKS-Gemeinwohl, dem Kampf für selbstorganisierte und nachbarschaftliche Strukturen auf dem RAW oder dem Versuch eines subversiven Kunstfonds (Frixfonds) mit Fokus auf dem Aufbau widerständiger Strukturen.
                                     </p>
                                 </div>
                             </div>
@@ -147,7 +180,7 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">13:30 - 14:15 Uhr</div>
                 <div class="col-12">
                     <h2 class="text-center">Mittagspause</h2>
@@ -157,7 +190,7 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">14:20 - 14:40 Uhr</div>
                 <div class="col-12" data-toggle="modal" data-target="#speaker6" style="cursor:pointer">
                     <h2 class="text-center">Debatte - Man müsste einfach mal...Open Gov durchsetzen - Community-Optimismus trifft auf Verwaltungsrealität</h2>
@@ -174,9 +207,14 @@
                                 </div>
                                 <div class="modal-body">
                                     <img src="../assets/img/speaker2020/victoria-boeck.jpg"/>
-                                    <img src="../assets/img/speaker2020/claudia-jach.jpg"/>
+                                    <h6>Victoria Boeck</h6>
                                     <p class="paragraph">
-                                        Lorem Ipsum
+                                        Victoria Boeck ist wissenschaftliche Mitarbeiterin im Bereich Open Data bei der Technologiestiftung Berlin. Dort leitet sie die "Open Data Informationsstelle" (ODIS), die Verwaltungsmitarbeiter*innen der Berliner Verwaltung bei der Bereitstellung und Nutzung von offenen Daten unterstützt. Sie studierte Public Policy an der Hertie School of Governance in Berlin.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/claudia-jach.jpg"/>
+                                    <h6>Claudia Jach</h6>
+                                    <p class="paragraph">
+                                        Claudia Jach ist Politikwissenschaftlerin und Projektmanagerin für Code for Germany bei der Open Knowledge Foundation Deutschland. 
                                     </p>
                                 </div>
                             </div>
@@ -185,7 +223,7 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">14:40 - 15:20 Uhr</div>
                 <div class="col-12" style="cursor:pointer">
                     <h2 class="text-center">Forumsdiskussion in Kleingruppen zu den aufgeworfenen Fragen</h2>
@@ -195,7 +233,7 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">15:20 - 15:40 Uhr</div>
                 <div class="col-12" style="cursor:pointer">
                     <h2 class="text-center">Ergebnisvorstellung im Plenum</h2>
@@ -205,7 +243,7 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
+            <div class="row program">
                 <div class="col-12 text-center" style="color:black; font-size: large">15:45 - 16:30 Uhr</div>
                 <div class="col-6" data-toggle="modal" data-target="#speaker7" style="cursor:pointer">
                     <h2 class="text-center">Workshop - GPL, MIT, WTFPL – häh? Eine Einführung in Freie- und Open-Source-Software-Lizenzen</h2>
@@ -221,9 +259,10 @@
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                 </div>
                                 <div class="modal-body">
-                                    <img src="../assets/img/speaker2020/knut-perseke.jpg"/>
+                                    <img src="../assets/img/speaker2020/thomas-friese.jpg"/>
+                                    <h6>Thomas Friese</h6>
                                     <p class="paragraph">
-                                        Lorem Ipsum
+                                        Thomas war Systemadministrator, Entwickler und Development Operator. Er betreut die Förderprojekte des Prototype Funds und steht insbesondere in technologischen Fragen dem Prototype Fund-Team wie auch den geförderten CoderInnen zur Seite.
                                     </p>
                                 </div>
                             </div>
@@ -245,9 +284,15 @@
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                 </div>
                                 <div class="modal-body">
-                                    <img src="../assets/img/speaker2020/knut-perseke.jpg"/>
+                                    <img src="../assets/img/speaker2020/unbekannt.png"/>
+                                    <h6>Norbert Rost</h6>
                                     <p class="paragraph">
-                                        Lorem Ipsum
+                                        Norbert Rost, Wirtschaftsinformatiker und Regional- und Stadtentwickler, führte Dresden als Projektleiter ins Finale des Zukunftsstadt-Städtewettbewerbs. Er sieht digitale Werkzeuge als Option, Beteiligungsverfahren zu skalieren und leichter zu multiplizieren und so die Nachhaltigkeitstransformation zu beschleunigen.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/unbekannt.png"/>
+                                    <h6>Jakob Schumann</h6>
+                                    <p class="paragraph">
+                                        Jakob Schumann, Software-Architekt mit Schwerpunkt Web-Applikationen, selbstständig seit 2007, technische Begleitung der Zukunftsstadt Dresden seit Beginn. Gemeinsam haben sie mit einer Förderung des Prototypefund einen Prototypen der Software entwickelt und arbeiten nun an deren Professionalisierung.
                                     </p>
                                 </div>
                             </div>
@@ -256,9 +301,9 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
-                <div class="col-12 text-center" style="color:black; font-size: large">16:40 - 16:50 Uhr</div>
-                <div class="col-12" data-toggle="modal" data-target="#speaker1" style="cursor:pointer">
+            <div class="row program">
+                <div class="col-12 text-center" style="color:black; font-size: large">16:40 - 16:55 Uhr</div>
+                <div class="col-12" data-toggle="modal" data-target="#speaker9" style="cursor:pointer">
                     <h2 class="text-center">Tageszusammenfassung</h2>
                     <h6 class="text-center"></h6>
                     <p class="paragraph">
@@ -266,13 +311,34 @@
                 </div>
             </div>
 
-            <div class="row" style="padding: 10px;margin-top:40px; background: lightgray">
-                <div class="col-12 text-center" style="color:black; font-size: large">16:50 - 17:00 Uhr</div>
-                <div class="col-12" data-toggle="modal" data-target="#speaker1" style="cursor:pointer">
+            <div class="row program">
+                <div class="col-12 text-center" style="color:black; font-size: large">16:55 - 17:00 Uhr</div>
+                <div class="col-12" data-toggle="modal" data-target="#speaker10" style="cursor:pointer">
                     <h2 class="text-center">Ausblick & Danksagung</h2>
                     <h6 class="text-center">von Adriana Groh, Hannes Hasenpatt</h6>
-                    <p class="paragraph">
-                    </p>
+                </div>
+
+                <div class="modal fade" id="speaker10" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h6 class="modal-title">Adriana Groh, Hannes Hasenpatt</h6>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            </div>
+                            <div class="modal-body">
+                                <img src="../assets/img/speaker2020/adriana-groh.jpg"/>
+                                <h6>Adriana Groh</h6>
+                                <p class="paragraph">
+                                    Adriana ist Head of Civic Tech bei der Open Knowledge Foundation und leitet die Programme Prototype Fund und Code for Germany. Sie hat Public Policy und Democratic Innovations in Maastricht studiert, zu Partizipation in der EU geforscht und die Initiativen wepublic und #WirVsVirus co-initiiert.
+                                </p>
+                                <img src="../assets/img/speaker2020/unbekannt.png"/>
+                                <h6>Hannes Hasenpatt</h6>
+                                <p class="paragraph">
+                                    Lorem Ipsum
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -299,4 +365,39 @@ export default {
     .zoom:hover {
         transform: scale(1.33);
     }
+
+    .program {
+        padding: 10px;
+        margin-top:40px; 
+        background: lightgray;
+
+        h2 {
+            padding-bottom: 10px;
+        }
+
+        h6 {
+            padding-bottom: 10px;
+        }
+    }
+
+    .modal-body {
+        img {
+            max-height:400px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        h6 {
+            text-align: center;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        p {
+            padding-bottom: 20px
+        }
+    }
+
+
 </style>
