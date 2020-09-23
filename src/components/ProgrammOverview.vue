@@ -15,9 +15,9 @@
 
         <div class="container">
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">10:00 - 10:15 Uhr</div>
-                <div class="col-12" data-toggle="modal" data-target="#speaker1" style="cursor:pointer">
+            <div class="row">
+                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker1" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">10:00 - 10:15 Uhr</div>
                     <h2 class="text-center">Begrüßung</h2>
                     <h6 class="text-center">von Katharina Meyer, Lothar Dittmer, Henriette Litta</h6>
                     <div class="modal fade" id="speaker1" tabindex="-1" role="dialog" aria-hidden="true">
@@ -50,12 +50,12 @@
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">10:15 - 10:35 Uhr</div>
-                <div class="col-12" data-toggle="modal" data-target="#speaker2" style="cursor:pointer">
-                    <h2 class="text-center">Keynote - The Democratic Challenge of Technology: <br />Growing Politics of    Collective Care in Our Cities</h2>
+            <div class="row">
+                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker2" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">10:15 - 10:35 Uhr</div>
+                    <h2 class="text-center">Keynote - The Democratic Challenge of Technology: <br />Growing Politics of Collective Care in Our Cities</h2>
                     <h6 class="text-center">von Bianca Wylie</h6>
-                    <p class="paragraph">
+                    <p>
                         Cities are under accelerated financial pressure. How will this moment influence the evolution of technology and digital infrastructure in the city? How does this evolution tie into geopolitical trends in technology? And how can governments and residents use open government to shape and grow democracy in this moment of great change?
                     </p>
                     <div class="modal fade" id="speaker2" tabindex="-1" role="dialog" aria-hidden="true">
@@ -78,12 +78,12 @@
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">10:40 - 11:25 Uhr</div>
-                <div class="col-12" data-toggle="modal" data-target="#speaker3" style="cursor:pointer">
+            <div class="row">
+                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker3" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">10:40 - 11:25 Uhr</div>
                     <h2 class="text-center">Paneldiskussion</h2>
-                    <h6 class="text-center">mit Frauke Janßen, Sabine Maigel, Matthias Punz, Timo Lundelius</h6>
-                    <p class="paragraph">
+                    <h6 class="text-center">mit Frauke Janßen, Sabine Meigel, Matthias Punz, Timo Lundelius</h6>
+                    <p>
                     </p>
                     <div class="modal fade" id="speaker3" tabindex="-1" role="dialog" aria-hidden="true">
                         <div class="modal-dialog" role="document">
@@ -120,12 +120,12 @@
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">12:55 - 13:30 Uhr</div>
-                <div class="col-6" data-toggle="modal" data-target="#speaker4" style="cursor:pointer">
+            <div class="row">
+                <div class="col-6 program blue" data-toggle="modal" data-target="#speaker4" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">12:55 - 13:30 Uhr</div>
                     <h2 class="text-center">Workshop - Offene Daten nutzen</h2>
                     <h6 class="text-center">von Knut Perseke</h6>
-                    <p class="paragraph">
+                    <p>
                         Offene Daten versetzen mich in die Lage, Aussagen zu unterschiedlichen Themen überprüfen zu können. Während der Coronapandemie konnten beispielsweise verschiedene Aspekte der aktuellen Lage wie die Altersverteilung der Patienten oder die Situation in bestimmten Landkreisen untersucht werden.
                         Aber wie finde ich offene Daten und wie kann ich sie am besten nutzen? Wie interpretiere ich sie und was sind Fallstricke?
                         In diesem Workshop nehmen wir uns den Datensatz des Corona - Dashboards des RKI vor, bereiten ihn auf und erstellen damit unsere eigene Visualisierung.
@@ -149,10 +149,11 @@
                     </div>
                 </div>
 
-                <div class="col-6" data-toggle="modal" data-target="#speaker5" style="cursor:pointer">
+                <div class="col-6 program blue" data-toggle="modal" data-target="#speaker5" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">12:55 - 13:30 Uhr</div>
                     <h2 class="text-center">Workshop - Decidim für ein Stadtprogramm von Unten</h2>
                     <h6 class="text-center">von Maria Haberer, Kuno Zscharnack</h6>
-                    <p class="paragraph">
+                    <p>
                         2016 beteiligten sich über 40.000 Menschen auf der digitalen Plattform decidim an der Entwicklung eines politischen Programms für Barcelona, das anschließend Handlungsgrundlage für die Stadtregierung wird. Wir berichten von den dortigen Erfahrungen und unserem Versuch die Plattform nach Berlin zu übertragen. Dafür stellen wir auch die Software decidim zur Erstellung eines Stadtprogramms vor. Was können wir aus den Erfahrungen über digitale Beteiligung lernen und auf die Offene Stadt der Zukunft übertragen?
                     </p>
                     <div class="modal fade" id="speaker5" tabindex="-1" role="dialog" aria-hidden="true">
@@ -180,22 +181,21 @@
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">13:30 - 14:15 Uhr</div>
-                <div class="col-12">
+            <div class="row">
+                <div class="col-12 program gray">
+                    <div class="text-center" style="color:black; font-size: large">13:30 - 14:15 Uhr</div>
                     <h2 class="text-center">Mittagspause</h2>
                     <h6 class="text-center"></h6>
-                    <p class="paragraph">
-                    </p>
+                    <p></p>
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">14:20 - 14:40 Uhr</div>
-                <div class="col-12" data-toggle="modal" data-target="#speaker6" style="cursor:pointer">
+            <div class="row">
+                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker6" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">14:20 - 14:40 Uhr</div>
                     <h2 class="text-center">Debatte - Man müsste einfach mal...Open Gov durchsetzen - Community-Optimismus trifft auf Verwaltungsrealität</h2>
                     <h6 class="text-center">von Victoria Boeck, Claudia Jach</h6>
-                    <p class="paragraph">
+                    <p>
                         Diskussionsanstöße zu den Fragen: Lässt sich die Forderung nach Open Government wirklich so einfach umsetzen wie die Zivilgesellschaft immer verlangt? Was sind Hindernisse für die Verwaltungen? Was sind Argumente für mehr Open Government? Und wie können wir das Wissen darum für die Resilienz von Verwaltungen einsetzen?
                     </p>
                     <div class="modal fade" id="speaker6" tabindex="-1" role="dialog" aria-hidden="true">
@@ -223,32 +223,30 @@
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">14:40 - 15:20 Uhr</div>
-                <div class="col-12" style="cursor:pointer">
+            <div class="row">
+                <div class="col-12 program blue" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">14:40 - 15:20 Uhr</div>
                     <h2 class="text-center">Forumsdiskussion in Kleingruppen zu den aufgeworfenen Fragen</h2>
                     <h6 class="text-center"></h6>
-                    <p class="paragraph">
-                    </p>
+                    <p></p>
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">15:20 - 15:40 Uhr</div>
-                <div class="col-12" style="cursor:pointer">
+            <div class="row">
+                <div class="col-12 program blue" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">15:20 - 15:40 Uhr</div>
                     <h2 class="text-center">Ergebnisvorstellung im Plenum</h2>
                     <h6 class="text-center"></h6>
-                    <p class="paragraph">
-                    </p>
+                    <p></p>
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">15:45 - 16:30 Uhr</div>
-                <div class="col-6" data-toggle="modal" data-target="#speaker7" style="cursor:pointer">
+            <div class="row">
+                <div class="col-6 program blue" data-toggle="modal" data-target="#speaker7" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">15:45 - 16:30 Uhr</div>
                     <h2 class="text-center">Workshop - GPL, MIT, WTFPL – häh? Eine Einführung in Freie- und Open-Source-Software-Lizenzen</h2>
                     <h6 class="text-center">von Thomas Friese</h6>
-                    <p class="paragraph">
+                    <p>
                         Der Workshop richtet sich in erster Linie an Menschen, die sich für freie Software interessieren und einen Überblick über die rechtlichen Möglichkeiten in der freien Software-Entwicklung bekommen möchten. Thomas Friese bringt dabei viel Erfahrung vom Prototype Fund mit, wo Projekte betreut werden, die ihre Software unter freien Lizenzen veröffentlichen. Viele der Projekte werden von erfahrenen Softwareentwickler:innen umgesetzt, für einige ist es aber auch die erste Erfahrung, Software unter einer freien Lizenz zu schreiben. So kommt die Frage nach der besten Lizenz immer wieder auf.
                     </p>
                     <div class="modal fade" id="speaker7" tabindex="-1" role="dialog" aria-hidden="true">
@@ -269,10 +267,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6" data-toggle="modal" data-target="#speaker8" style="cursor:pointer">
+                <div class="col-6 program blue" data-toggle="modal" data-target="#speaker8" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">15:45 - 16:30 Uhr</div>
                     <h2 class="text-center">Workshop - Wie bitte geht's zur Zukunftsstadt?</h2>
                     <h6 class="text-center">von Norbert Rost, Jakob Schumann</h6>
-                    <p class="paragraph">
+                    <p>
                         Wie lassen sich Stadtbewohner*innen (digital) an der Stadttransformation beteiligen? Aus den Dresdner Erfahrungen im BMBF-Städtewettbewerb "Zukunftsstadt" entstand die Online-Plattform FutureCityProjects, mit der Bürger*innen, Stadtverwaltung, Forscher*innen und Unternehmer*innen kollaborativ Projekte planen können. Aus groben Projektideen entstehen umsetzungsfähige Projektpläne, entstehen einreichfähige Förderanträge: Ein Tool für Kommunen, die die Kraft der Bürger*innen nachhaltig in ihre Entwicklungsstrategie einbinden wollen.
                         Der Workshop stellt die Plattform vor und diskutiert Anwendungsszenarien für Kommunen, Regionen und andere.
                     </p>
@@ -301,9 +300,9 @@
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">16:40 - 16:55 Uhr</div>
-                <div class="col-12" data-toggle="modal" data-target="#speaker9" style="cursor:pointer">
+            <div class="row">
+                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker9" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">16:40 - 16:55 Uhr</div>
                     <h2 class="text-center">Tageszusammenfassung</h2>
                     <h6 class="text-center"></h6>
                     <p class="paragraph">
@@ -311,9 +310,9 @@
                 </div>
             </div>
 
-            <div class="row program">
-                <div class="col-12 text-center" style="color:black; font-size: large">16:55 - 17:00 Uhr</div>
-                <div class="col-12" data-toggle="modal" data-target="#speaker10" style="cursor:pointer">
+            <div class="row">
+                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker10" style="cursor:pointer">
+                    <div class="text-center" style="color:black; font-size: large">16:55 - 17:00 Uhr</div>
                     <h2 class="text-center">Ausblick & Danksagung</h2>
                     <h6 class="text-center">von Adriana Groh, Hannes Hasenpatt</h6>
                 </div>
@@ -366,10 +365,21 @@ export default {
         transform: scale(1.33);
     }
 
+    .blue {
+        background-color: #88b1dd;
+    }
+
+    .gray {
+        background-color: lightgray;
+    }
+
     .program {
         padding: 10px;
-        margin-top:40px; 
-        background: lightgray;
+        margin-top: 40px;
+        
+        border: solid 3px white;
+        text-align: justify;
+        color: white;
 
         h2 {
             padding-bottom: 10px;
