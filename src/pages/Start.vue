@@ -33,12 +33,12 @@
         <!-- rueckblick area -->
         <!--<Rueckblick />-->
 
-        <!-- Livestream -->
-        <!--<LiveStream />-->
-
         <!-- veranstalter area -->
         <Veranstalter />
         
+        <!-- Livestream -->
+        <LiveStream />
+
         <!-- programm app section -->
         <ProgrammOverview />
 
