@@ -74,6 +74,7 @@ export default {
                 {title: "Feena Fensky", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/feena.jpg")},
                 {title: "Natalia Brühl", designation: "Körber-Stiftung", thumb: require("../assets/img/team/natalia.jpg")},
                 //{title: "Christian Wittig", designation: "Code for Hamburg e.V.", thumb: require("../assets/img/team/christian.jpg")},
+                {title: "Sina Droste", designation: "Körber-Stiftung", thumb: require("../assets/img/team/sina.jpg")}
             ],
             bgImg: {
                 backgroundImage: `url(${require('../assets/img/slider/2.jpg')})`
