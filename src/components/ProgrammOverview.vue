@@ -121,7 +121,7 @@
 
 
             <div class="row">
-                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker4" style="cursor:pointer">
+                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker4">
                     <div class="text-center" style="color:black; font-size: large">11:30 - 12:00 Uhr</div>
                     <h2 class="text-center">Lesung - Roman "Technophoria" mit anschließendem Interview</h2>
                     <h6 class="text-center">mit Niklas Maak (angefragt)</h6>
@@ -155,10 +155,10 @@
                                     <p class="paragraph">
                                         Sabine Meigel leitet seit Anfang 2018 die Geschäftsstelle Digitale Agenda der Stadt Ulm mit den Projekten Verschwörhaus, Zukunftsstadt 2030 und Zukunftskommune@bw und koordiniert das Förderprojekt "Smart city" des BMI. Sie studierte Landschaftsökologie an der TU München und Geoinformatik an der Uni Salzburg. Als Geschäftsstellenleitung kümmerte sie sich bis 2014 um die ersten IT Pilotprojekte für die Stadt Ulm 2.0 und in Brüssel um den Themenbereich Digitalisierung auf europäischer Ebene für die Region Stuttgart. Ehrenamtlich ist sie seit 2015 Jurymitglied bei Jugend forscht.
                                     </p>
-                                    <img src="../assets/img/speaker2020/unbekannt_blue.png"/>
-                                    <h6>Matthias Punz - Redakteur, Der Tagesspiegel</h6>
+                                    <img src="../assets/img/speaker2020/matthias-punz.jpg"/>
+                                    <h6>Matthias Punz</h6>
                                     <p class="paragraph">
-                                        Folgt in Kürze.
+                                        Matthias Punz schreibt beim Tagesspiegel über die Digitalisierung des öffentlichen Sektors. Beim Fachinformationsdienst Tagesspiegel Background Digitalisierung & KI ist er für die Themen Smart Cities und digitale Verwaltung zuständig. Zuvor hat er in Österreich unter anderem für die Wiener Zeitung gearbeitet. An der Universität Wien studierte Matthias Punz Volkswirtschaftslehre, Zeitgeschichte und Medien. Seine ersten journalistischen Erfahrungen sammelte er in der Wirtschaftsredaktion des öffentlich-rechtlichen Radioprogramms Ö1. 
                                     </p>
                                     <img src="../assets/img/speaker2020/timo-lundelius.jpg"/>
                                     <h6>Timo Lundelius</h6>
