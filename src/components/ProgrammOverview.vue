@@ -297,13 +297,13 @@
                     <h2 class="text-center">Workshop - Decidim für ein Stadtprogramm von Unten</h2>
                     <h6 class="text-center">von Maria Haberer, Kuno Zscharnack</h6>
                     <p>
-                        2016 beteiligten sich über 40.000 Menschen auf der digitalen Plattform decidim an der Entwicklung eines politischen Programms für Barcelona, das anschließend Handlungsgrundlage für die Stadtregierung wird. Wir berichten von den dortigen Erfahrungen und unserem Versuch die Plattform nach Berlin zu übertragen. Dafür stellen wir auch die Software decidim zur Erstellung eines Stadtprogramms vor. Was können wir aus den Erfahrungen über digitale Beteiligung lernen und auf die Offene Stadt der Zukunft übertragen?
+                        2016 beteiligten sich über 40.000 Menschen auf der digitalen Plattform decidim an der Entwicklung eines politischen Programms für Barcelona, das anschließend Handlungsgrundlage für die Stadtregierung wird. Wir berichten von den dortigen Erfahrungen und unserem Versuch die Plattform nach Berlin zu übertragen. Dafür stellen wir auch die Software decidim zur Erstellung eines Stadtprogramms vor. Was können wir aus den Erfahrungen über digitale Beteiligung lernen und auf die Offene Stadt der Zukunft übertragen? Weitere Informationen finden Sie <a href="https://demoweek.prototypefund.de/projects/01-decidim.berlin.html" target="_blank">hier</a>.
                     </p>
                     <div class="modal fade" id="speaker9" tabindex="-1" role="dialog" aria-hidden="true">
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h6 class="modal-title">Maria Haberer, Kuno Zscharnack</h6>
+                                    <h6 class="modal-title">Maria Haberer, Kuno Zscharnack, Boris Hekele</h6>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                 </div>
                                 <div class="modal-body">
@@ -316,6 +316,11 @@
                                     <h6>Kuno Zscharnack</h6>
                                     <p class="paragraph">
                                         Kuno Zscharnack engagiert sich seit vielen Jahren mit verschiedenen Gruppen kreativ stadtpolitisch, zuletzt erfolgreich etwa beim Aufbau der AKS-Gemeinwohl, dem Kampf für selbstorganisierte und nachbarschaftliche Strukturen auf dem RAW oder dem Versuch eines subversiven Kunstfonds (Frixfonds) mit Fokus auf dem Aufbau widerständiger Strukturen.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/boris-hekele.jpg"/>
+                                    <h6>Boris Hekele</h6>
+                                    <p class="paragraph">
+                                        Boris Hekele war nach seinem Studium der Philosophie und Medieninformatik federführend an der Gründung der Plattform abgeordnetenwatch.de 2004 beteiligt. Seit Dezember 2015 arbeitet er als Gründungsmitglied des Vereins Changing Cities e.V. an der Verkehrswende von unten. Seit 2018 ist mit seiner Verkehrswende-Firma FixMyCity einer der Stakeholder des von der Stadt Berlin geschaffenen CityLABs als Ort für partizipative Stadtentwicklung.
                                     </p>
                                 </div>
                             </div>
