@@ -119,6 +119,14 @@
     @media #{$md-device} {
         height: 900px;
     }
+
+    @media #{$sm-device} {
+        height: 1100px;
+    }
+
+    @media #{$xs-device} {
+        height: 1200px;
+    }
 }
 .slider-banner-thumb {
     width: 400px;
@@ -143,8 +151,19 @@
 
 // hero banner style 3
 .hero-style-3 {
+
+    height: 900px;
+
     // responsive
-    @media #{$md-device, $sm-device} {
+    @media #{$md-device} {
         height: 900px;
+    }
+
+    @media #{$sm-device} {
+        height: 1100px;
+    }
+
+    @media #{$xs-device} {
+        height: 1200px;
     }
 }

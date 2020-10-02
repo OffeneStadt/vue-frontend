@@ -163,7 +163,7 @@
                                     <img src="../assets/img/speaker2020/timo-lundelius.jpg"/>
                                     <h6>Timo Lundelius</h6>
                                     <p class="paragraph">
-                                        Timo Lundelius, 35, liebt offene Digitalisierung, offene Daten und offene Software. Glaubt an die Machht der Zivilgesellschaft setzt sich sehr gerne dafür ein. Damit das gut wird, mussten in den letzten Jahren verschiedenste Projekte begründet werden. Lundelius wurde Gründer und Vorstand der Neues Amt Altona eG, geschäftsführender Gesellschafter der We-Build.City GmbH, Gründer und Lab Lead des Code for Hamburg e.V. Labs sowie Gründer des FORUMs Offene Stadt.
+                                        Timo Lundelius, 35, liebt offene Digitalisierung, offene Daten und offene Software. Glaubt an die Macht der Zivilgesellschaft setzt sich sehr gerne dafür ein. Damit das gut wird, mussten in den letzten Jahren verschiedenste Projekte begründet werden. Lundelius wurde Gründer und Vorstand der Neues Amt Altona eG, geschäftsführender Gesellschafter der We-Build.City GmbH, Gründer und Lab Lead des Code for Hamburg e.V. Labs sowie Gründer des FORUMs Offene Stadt.
                                     </p>
                                 </div>
                             </div>
@@ -192,7 +192,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <img src="../assets/img/speaker2020/knut-perseke.jpg"/>
-                                    <h6>Knut Perseke (OK Lab Berlin)</h6>
+                                    <h6>Knut Perseke</h6>
                                     <p class="paragraph">
                                         Knut ist Mitglied des OK Lab Berlin und arbeitet als Webentwickler für verschiedene Organisationen. Seit 2015 setzt er sich für offene Daten in verschiedenen Kontexten wie z.B. offene Kulturdaten ein. Er arbeiteite unter anderem an datengetriebenen Projekten wie jedeschule.de, offenesparlament.de oder transparenzranking.de
                                     </p>
@@ -295,7 +295,7 @@
                 <div class="col-6 program blue" data-toggle="modal" data-target="#speaker9" style="cursor:pointer">
                     <div class="text-center" style="color:black; font-size: large">15:45 - 16:30 Uhr</div>
                     <h2 class="text-center">Workshop - Decidim für ein Stadtprogramm von Unten</h2>
-                    <h6 class="text-center">von Maria Haberer, Kuno Zscharnack</h6>
+                    <h6 class="text-center">von Maria Haberer, Kuno Zscharnack, Boris Hekele</h6>
                     <p>
                         2016 beteiligten sich über 40.000 Menschen auf der digitalen Plattform decidim an der Entwicklung eines politischen Programms für Barcelona, das anschließend Handlungsgrundlage für die Stadtregierung wird. Wir berichten von den dortigen Erfahrungen und unserem Versuch die Plattform nach Berlin zu übertragen. Dafür stellen wir auch die Software decidim zur Erstellung eines Stadtprogramms vor. Was können wir aus den Erfahrungen über digitale Beteiligung lernen und auf die Offene Stadt der Zukunft übertragen? Weitere Informationen finden Sie <a href="https://demoweek.prototypefund.de/projects/01-decidim.berlin.html" target="_blank">hier</a>.
                     </p>
@@ -338,6 +338,8 @@
                         Der Workshop stellt die Plattform vor und diskutiert Anwendungsszenarien z. B. angesichts der Herausforderungen der Klimakrise für Kommunen, Regionen und andere.
                         <br /><br />
                         Direkt im Anschluss klären die Vortragenden technische Fragen zur Umsetzung und zum Einsatz der Anwendung.
+                        <br /><br />
+                        Weitere Informationen finden Sie <a href="https://zukunftsstadt.de/leistungen/futurecityprojects" target="_blank">hier</a>.
                     </p>
                     <div class="modal fade" id="speaker10" tabindex="-1" role="dialog" aria-hidden="true">
                         <div class="modal-dialog" role="document">
