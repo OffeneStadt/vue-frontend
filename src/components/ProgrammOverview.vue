@@ -124,8 +124,9 @@
                 <div class="col-12 program blue" data-toggle="modal" data-target="#speaker4">
                     <div class="text-center" style="color:black; font-size: large">11:30 - 12:00 Uhr</div>
                     <h2 class="text-center">Lesung - Roman "Technophoria" mit anschließendem Interview</h2>
-                    <h6 class="text-center">mit Niklas Maak (angefragt)</h6>
+                    <h6 class="text-center">mit Niklas Maak</h6>
                     <p>
+                      „Technophoria“ offenbart das Bedürfnis des Menschen, die Welt vollständig nach seinen Wünschen und Bedürfnissen zu formen und wirft die Frage auf wohin die technisch-digitalisierte Optimierung die Menschheit führt.
                     </p>
                 </div>
             </div>

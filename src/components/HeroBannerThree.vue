@@ -5,7 +5,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-5 order-1 order-md-1">
                         <div class="slider-banner-thumb">
-                            <img src="../assets/img/slider/inside6.png">
+                            <img src="../assets/img/slider/inside6_neu.png">
                             <div style="float:left; margin: 20px 0 0 0;">
                                 <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="55" width="130" style="padding:6px; margin-right:2px;float: left; background: rgba(255, 255, 255, 0.8);">  
                                 <img  :src="require('../assets/img/veranstalter/okf.svg')" height="55" width="130" style="padding:4px; margin-right:2px;float:left; background: rgba(255, 255, 255, 0.8);">  

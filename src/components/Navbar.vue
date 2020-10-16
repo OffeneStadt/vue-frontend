@@ -6,7 +6,7 @@
                     <div class="menu-wrap">
                         <div class="brand-logo">
                             <a href="#">
-                                <img src="../assets/img/logo/small-logo_alternativ.png" alt="Forum Offene Stadt | Logo">
+                                <img src="../assets/img/logo/logo_besser_klein.png" alt="Forum Offene Stadt | Logo">
                             </a>
                         </div>
                         <div id="hamburger" v-on:click="display_menu()">
