@@ -121,13 +121,30 @@
 
 
             <div class="row">
-                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker4">
+                <div class="col-12 program blue" data-toggle="modal" data-target="#speaker4" style="cursor:pointer">
                     <div class="text-center" style="color:black; font-size: large">11:30 - 12:00 Uhr</div>
                     <h2 class="text-center">Lesung - Roman "Technophoria" mit anschließendem Interview</h2>
                     <h6 class="text-center">mit Niklas Maak</h6>
                     <p>
                       „Technophoria“ offenbart das Bedürfnis des Menschen, die Welt vollständig nach seinen Wünschen und Bedürfnissen zu formen und wirft die Frage auf wohin die technisch-digitalisierte Optimierung die Menschheit führt.
                     </p>
+                    <div class="modal fade" id="speaker4" tabindex="-1" role="dialog" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h6 class="modal-title">Niklas Maak</h6>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                </div>
+                                <div class="modal-body">
+                                    <img src="../assets/img/speaker2020/niklas-maak.jpg" title="Copyright: Frank Röth"/>
+                                    <h6>Niklas Maak</h6>
+                                    <p class="paragraph">
+                                        Niklas Maak, Jahrgang 1972, studierte in Hamburg und Paris Kunstgeschichte, Philosophie und Architektur und lebt in Berlin. Seit 2001 ist er Redakteur im Feuilleton der Frankfurter Allgemeinen Zeitung für Kunst und Architektur, außerdem unterrichtete er als Gastprofessor für Architekturgeschichte in Frankfurt am Main und in Harvard. Für seine Arbeit erhielt er den George-F.-Kennan-Preis, 2012 den Henri-Nannen-Preis, den COR-Preis 2014, den BDA-Preis für Architekturkritik 2015 und den HBS-Kritikerpreis 2017. 
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -296,7 +313,7 @@
                 <div class="col-6 program blue" data-toggle="modal" data-target="#speaker9" style="cursor:pointer">
                     <div class="text-center" style="color:black; font-size: large">15:45 - 16:30 Uhr</div>
                     <h2 class="text-center">Workshop - Decidim für ein Stadtprogramm von Unten</h2>
-                    <h6 class="text-center">von Maria Haberer, Kuno Zscharnack, Boris Hekele</h6>
+                    <h6 class="text-center">von Maria Haberer, Kuno Zscharnack, Boris Hekele, Xavi Ferrer</h6>
                     <p>
                         2016 beteiligten sich über 40.000 Menschen auf der digitalen Plattform decidim an der Entwicklung eines politischen Programms für Barcelona, das anschließend Handlungsgrundlage für die Stadtregierung wird. Wir berichten von den dortigen Erfahrungen und unserem Versuch die Plattform nach Berlin zu übertragen. Dafür stellen wir auch die Software decidim zur Erstellung eines Stadtprogramms vor. Was können wir aus den Erfahrungen über digitale Beteiligung lernen und auf die Offene Stadt der Zukunft übertragen? Weitere Informationen finden Sie <a href="https://demoweek.prototypefund.de/projects/01-decidim.berlin.html" target="_blank">hier</a>.
                     </p>
@@ -304,7 +321,7 @@
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h6 class="modal-title">Maria Haberer, Kuno Zscharnack, Boris Hekele</h6>
+                                    <h6 class="modal-title">Maria Haberer, Kuno Zscharnack, Boris Hekele, Xavi Ferrer</h6>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                 </div>
                                 <div class="modal-body">
@@ -322,6 +339,12 @@
                                     <h6>Boris Hekele</h6>
                                     <p class="paragraph">
                                         Boris Hekele war nach seinem Studium der Philosophie und Medieninformatik federführend an der Gründung der Plattform abgeordnetenwatch.de 2004 beteiligt. Seit Dezember 2015 arbeitet er als Gründungsmitglied des Vereins Changing Cities e.V. an der Verkehrswende von unten. Seit 2018 ist mit seiner Verkehrswende-Firma FixMyCity einer der Stakeholder des von der Stadt Berlin geschaffenen CityLABs als Ort für partizipative Stadtentwicklung.
+                                    </p>
+                                    <img src="../assets/img/speaker2020/xavi-ferrer.jpg"/>
+                                    <h6>Xavi Ferrer</h6>
+                                    <p class="paragraph">
+                                        Xavi Ferrer is currently promoting local initiatives networking, sometimes called municipalism or communalism. He is a founding member of Barcelona en Comú and worked as co-head of its international group for four years. Today, he is collaborating with the European Municipalist Network, 99 van Amsterdam, Barcelona en Comú, Foro Transiciones, and other informal networks.
+                                        His work focuses on supporting local groups with the aim of creating a global network of organizations that could contribute to the transitions that we need: to sustainability, to decolonizing, to feminization and to digitalization.
                                     </p>
                                 </div>
                             </div>
