@@ -19,12 +19,12 @@
                 <div class="col-12 program blue" data-toggle="modal" data-target="#speaker1" style="cursor:pointer">
                     <div class="text-center" style="color:black; font-size: large">10:00 - 10:15 Uhr</div>
                     <h2 class="text-center">Begrüßung</h2>
-                    <h6 class="text-center">von Katharina Meyer, Dr. Lothar Dittmer, Dr. Henriette Litta</h6>
+                    <h6 class="text-center">von Katharina Meyer, Sven Tetzlaff, Dr. Henriette Litta</h6>
                     <div class="modal fade" id="speaker1" tabindex="-1" role="dialog" aria-hidden="true">
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h6 class="modal-title">Katharina Meyer, Dr. Lothar Dittmer, Dr. Henriette Litta</h6>
+                                    <h6 class="modal-title">Katharina Meyer, Sven Tetzlaff, Dr. Henriette Litta</h6>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                 </div>
                                 <div class="modal-body">
@@ -33,10 +33,10 @@
                                     <p class="paragraph">
                                         Katharina leitet die wissenschaftliche Begleitforschung zu technologischen Kontexten, Innovationsprozessen sowie Evaluation des Programms und kümmert sich um die Weiterentwicklung des Netzwerks. Als Technik- und Wissenschaftshistorikerin interessiert sie sich besonders für soziale Entwicklungsumgebungen. Sie war Fellow am Center for Advanced Internet Studies, Wissenschaftliche Mitarbeiterin am Centre for Digital Cultures und Projektleitung für Digitale Geisteswissenschaften bei der OKFN.
                                     </p>
-                                    <img src="../assets/img/speaker2020/lothar-dittmer.jpg"/>
-                                    <h6>Dr. Lothar Dittmer</h6>
+                                    <img src="../assets/img/speaker2020/sven-tetzlaff.jpg"/>
+                                    <h6>Sven Tetzlaff</h6>
                                     <p class="paragraph">
-                                        Dr. Lothar Dittmer ist Vorstandsvorsitzender der Körber-Stiftung und promovierter Historiker. Bevor er 1994 zur Körber-Stiftung kam, arbeitete er an verschiedenen beruflichen Stationen im Bereich der Erwachsenenbildung. Später war er Dozent und stellvertretender Leiter an der Akademie Biggesee. Seit 1994 ist er Mitarbeiter der Körber-Stiftung. 2008 wurde er in deren Vorstand berufen. Zum 01.05.2015 wurde er zum Vorsitzenden des Vorstands der Körber-Stiftung berufen.
+                                        Sven Tetzlaff ist Sozial- und Wirtschaftshistoriker und leitet seit 2018 den Bereich „Demokratie, Engagement, Zusammenhalt“ der Körber-Stiftung, Hamburg. Zuvor war er dort über 10 Jahre für die historisch-politischen Projekte wie den „Geschichtswettbewerb des Bundespräsidenten“ verantwortlich. Seit 2011 engagiert er sich zudem als geschäftsführendes Vorstandsmitglied der Herbert und Elsbeth Weichmann-Stiftung.
                                     </p>
                                     <img src="../assets/img/speaker2020/henriette-litta.jpg"/>
                                     <h6>Dr. Henriette Litta</h6>
