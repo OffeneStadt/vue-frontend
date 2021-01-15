@@ -18,7 +18,8 @@
                             <!--<li><a v-on:click="close_menu()" href="/#home">Start</a></li>-->
                            <!-- <li><a v-on:click="close_menu()" href="/#forum">Forum 2019</a></li>-->
                             <li><a v-on:click="close_menu()" href="/#programm">Programm</a></li>
-                            <li><a v-on:click="close_menu()" href="/#livestream">Live Stream</a></li>
+                            <!--<li><a v-on:click="close_menu()" href="/#livestream">Live Stream</a></li>-->
+                            <li><a v-on:click="close_menu()" href="/#videorueckblick">Rückblick 2020</a></li>
                             <!--<li><a v-on:click="close_menu()" href="/#projekte">Projekte</a></li>-->
                             <!--<li><a v-on:click="close_menu()" href="/#speaker">Redner*innen</a></li>-->
                             <!--<li><a v-on:click="close_menu()" href="/#partner">Partner</a></li>-->

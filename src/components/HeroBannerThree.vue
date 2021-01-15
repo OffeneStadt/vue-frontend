@@ -17,14 +17,14 @@
                         <div class="slider-content slider-content__style-3">
                             <h2 class="slider-title"  style="background-color: #1f446c; background-color: rgba(31, 68, 108,0.8); padding: 15px 15px 5px 15px; font-size:1.7em">Forum Offene Stadt. Partizipativ, digital, nachhaltig</h2>
                             <p class="slider-desc"  style="background-color: #1f446c; background-color: rgba(31, 68, 108,0.8); padding: 0px 15px; font-size:0.95em">
-                                <span style="float:right; padding-right: 20px">am Fr, 6. November 2020</span><br />
+                                <span style="font-weight: bold; padding-left: 4px">am Fr., 6. November 2020</span><br />
                                 Die Körber-Stiftung und Code for Germany, ein Projekt der Open Knowledge Foundation Deutschland, laden wieder zum Forum Offene Stadt nach Hamburg ein.
                                 <br /><br />
                                 Mit dem Untertitel partizipativ, digital, nachhaltig richtet sich der thematische Fokus auf die Gestaltung der digitalen Stadt der Zukunft. Was braucht es dafür, wie können Bürgerinnen und Bürger beteiligt werden, bei wem finden die Städte Unterstützung und wie kann die Digitalisierung den Verwaltungen dabei helfen, mit Herausforderungen wie der Corona- und Klimakrise umzugehen?
                                 <br /><br />
                                 Diesen und weiteren Fragen möchten wir gemeinsam in Impulsvorträgen, Workshops und Hintergrundgesprächen nachgehen und mit Ihnen von Best-Practice-Beispielen aus Deutschland und darüber hinaus lernen. 
                                 <br /><br />
-                                Das Programm finden Sie nun <a href="/#programm">hier</a>. Folgen Sie uns auch auf Twitter unter <a href="https://twitter.com/codeforde">@codeforde</a> und <a href="https://twitter.com/KoerberLBG">@KoerberLBG</a> sowie unter #FOS2020 für weitere Informationen. Die Vorträge und Paneldiskussionen können Sie ebenfalls im <a href="/#livestream">Live Stream</a> auf dieser Seite mitverfolgen.
+                                Das Programm finden Sie nun <a href="/#programm">hier</a>. Folgen Sie uns auch auf Twitter unter <a href="https://twitter.com/codeforde">@codeforde</a> und <a href="https://twitter.com/KoerberLBG">@KoerberLBG</a> sowie unter #FOS2020 für weitere Informationen. <!--Die Vorträge und Paneldiskussionen können Sie ebenfalls im <a href="/#livestream">Live Stream</a> auf dieser Seite mitverfolgen.-->
                                 <br /><br />
                                 Um an Diskussionen und Workshops teilzunehmen, melden Sie sich bitte an. Sollte die Anmeldung bei Ihnen aus technischen Gründen nicht funktionieren, ist sie alternativ über <a href="mailto:dez@koerber-Stiftung.de">dez@koerber-stiftung.de</a> möglich.
                             </p>

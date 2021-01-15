@@ -36,8 +36,11 @@
         <!-- veranstalter area -->
         <Veranstalter />
         
-        <!-- Livestream -->
-        <LiveStream />
+        <!-- Livestream
+        <LiveStream /> -->
+
+        <!-- VideoRückblick -->
+        <VideoRueckblick />
 
         <!-- programm app section -->
         <ProgrammOverview />
@@ -67,6 +70,8 @@
     import Programm from '../components/Programm'
     import ProgrammOverview from '../components/ProgrammOverview'
     import LiveStream from '../components/LiveStream'
+    import VideoRueckblick from '../components/VideoRueckblick'
+    
     import Projekte from '../components/Projekte'
     import Speaker from '../components/Speaker'
   //  import Partner from '../components/Partner'
@@ -85,6 +90,7 @@
             Navbar,
             HeroBannerThree,
             LiveStream,
+            VideoRueckblick,
             //Forum,
             Programm,
             ProgrammOverview,

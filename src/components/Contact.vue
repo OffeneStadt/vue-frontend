@@ -63,7 +63,7 @@
                                 <i class="fa fa-twitter "></i>
                                 </div>
                             <h6 class="support-title">Twitter</h6>
-                            <p><a href="https://twitter.com/OffeneStadt" target="_blank">#offenestadt</a></p>
+                            <p><a href="https://twitter.com/hashtag/FOS2020" target="_blank">#FOS2020</a></p>
                         </div>
                     </div>
                 </div>
