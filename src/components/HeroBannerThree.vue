@@ -8,8 +8,8 @@
                             <img src="../assets/img/slider/inside6_neu.png">
                             <div style="float:left; margin: 20px 0 0 0;">
                                 <img  :src="require('../assets/img/veranstalter/koerber-stiftung.svg')" height="55" width="130" style="padding:6px; margin-right:2px;float: left; background: rgba(255, 255, 255, 0.8);">  
-                                <img  :src="require('../assets/img/veranstalter/okf.svg')" height="55" width="130" style="padding:4px; margin-right:2px;float:left; background: rgba(255, 255, 255, 0.8);">  
-                                <img  :src="require('../assets/img/veranstalter/CFG.svg')" height="55" width="130" style="padding:4px;float:left; background: rgba(255, 255, 255, 0.8);">  
+                                <!--<img  :src="require('../assets/img/veranstalter/okf.svg')" height="55" width="130" style="padding:4px; margin-right:2px;float:left; background: rgba(255, 255, 255, 0.8);">  -->
+                                <img  :src="require('../assets/img/veranstalter/cfhh-logo.png')" height="55" width="55" style="padding:4px;float:left; background: rgba(255, 255, 255, 0.8);">  
                             </div>
                         </div>
                     </div>
@@ -17,20 +17,21 @@
                         <div class="slider-content slider-content__style-3">
                             <h2 class="slider-title"  style="background-color: #1f446c; background-color: rgba(31, 68, 108,0.8); padding: 15px 15px 5px 15px; font-size:1.7em">Forum Offene Stadt. Partizipativ, digital, nachhaltig</h2>
                             <p class="slider-desc"  style="background-color: #1f446c; background-color: rgba(31, 68, 108,0.8); padding: 0px 15px; font-size:0.95em">
-                                <span style="font-weight: bold; padding-left: 4px">am Fr., 6. November 2020</span><br />
-                                Die Körber-Stiftung und Code for Germany, ein Projekt der Open Knowledge Foundation Deutschland, laden wieder zum Forum Offene Stadt nach Hamburg ein.
+                                <span style="font-weight: bold; padding-left: 4px">am Fr., 5. November 2021</span><br />
+                                Die Körber-Stiftung und Code for Hamburg, laden wieder zum Forum Offene Stadt nach Hamburg ein.
                                 <br /><br />
-                                Mit dem Untertitel partizipativ, digital, nachhaltig richtet sich der thematische Fokus auf die Gestaltung der digitalen Stadt der Zukunft. Was braucht es dafür, wie können Bürgerinnen und Bürger beteiligt werden, bei wem finden die Städte Unterstützung und wie kann die Digitalisierung den Verwaltungen dabei helfen, mit Herausforderungen wie der Corona- und Klimakrise umzugehen?
+                                Mit dem Untertitel <i>partizipativ, digital, nachhaltig</i> richtet sich der thematische Fokus auf die Gestaltung der digitalen Stadt der Zukunft. Was braucht es dafür, wie können Bürgerinnen und Bürger beteiligt werden, bei wem finden die Städte Unterstützung und wie kann die Digitalisierung den Verwaltungen dabei helfen, mit Herausforderungen wie der Corona- und Klimakrise umzugehen?
                                 <br /><br />
-                                Diesen und weiteren Fragen möchten wir gemeinsam in Impulsvorträgen, Workshops und Hintergrundgesprächen nachgehen und mit Ihnen von Best-Practice-Beispielen aus Deutschland und darüber hinaus lernen. 
+                                Diesen und weiteren Fragen möchten wir gemeinsam in Impulsvorträgen, Workshops und Hintergrundgesprächen nachgehen und mit Ihnen von Best-Practice-Beispielen aus Deutschland und darüber hinaus lernen.
                                 <br /><br />
-                                Das Programm finden Sie nun <a href="/#programm">hier</a>. Folgen Sie uns auch auf Twitter unter <a href="https://twitter.com/codeforde">@codeforde</a> und <a href="https://twitter.com/KoerberLBG">@KoerberLBG</a> sowie unter #FOS2020 für weitere Informationen. <!--Die Vorträge und Paneldiskussionen können Sie ebenfalls im <a href="/#livestream">Live Stream</a> auf dieser Seite mitverfolgen.-->
+                                Die Konferenz findet in 2021 im fünften Jahr in Folge statt. Bereits in früheren Iterationen konnten sich Akteure aus Verwaltung, Politik, Zivilgesellschaft, Wissenschaft und Wirtschaft zusammen über digitale Lösungen austauschen. Dabei ging es unter anderem um Schwerpunktthemen wie Mobilität und Umweltschutz, immer aber auch um die Beteiligung der Bürgerinnen und Bürger an der Gestaltung ihrer Städte. Wichtige Impulse wurden unter anderem geliefert von: Johanna Engman (CIO, City of Stockholm), Bianca Wylie (Open Data Institute Toronto), Aik van Eemeren (Lead Public Tech at CTO, City of Amsterdam) und Niklas Maak (Redakteur, Frankfurter Allgemeine Zeitung; Autor).
                                 <br /><br />
-                                Um an Diskussionen und Workshops teilzunehmen, melden Sie sich bitte an. Sollte die Anmeldung bei Ihnen aus technischen Gründen nicht funktionieren, ist sie alternativ über <a href="mailto:dez@koerber-Stiftung.de">dez@koerber-stiftung.de</a> möglich.
+                                Das Programm finden Sie in Kürze hier. Folgen Sie uns auch auf Twitter unter @OffeneStadt,  @codeforhamburg und @KoerberLBG sowie unter #FOS2021 für weitere Informationen.
                             </p>
-                            <div class="slider-btn" style="margin-top: 50px">
+                            <!--<div class="slider-btn" style="margin-top: 50px">
                                 <a href="https://www.koerber-stiftung.de/?id=2393" class="read-more active" style="width: 100%; text-align:center; font-size:2.5em; font-weight: bold;" target="_blank">Anmeldung</a>
                             </div>
+                            -->
                             <!--
                             <div class="slider-btn">
                                 <a href="https://twitter.com/OffeneStadt" class="read-more active" style="width: 100%; text-align:center; font-size:2.5em; font-weight: bold;" target="_blank">#OffeneStadt</a>

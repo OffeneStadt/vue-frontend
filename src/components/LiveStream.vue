@@ -6,7 +6,7 @@
                     <div class="section-title text-center">
                         <div class="title-icon"></div>
                         <h2 class="title">LiveStream </h2>
-                        <p class="paragraph">Verfügbar ab dem 6.November 9:30 Uhr</p>
+                        <p class="paragraph">Verfügbar ab dem 5.November 9:30 Uhr</p>
                     </div>
                 </div>
             </div>

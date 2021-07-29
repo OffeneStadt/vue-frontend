@@ -43,10 +43,10 @@
         <VideoRueckblick />
 
         <!-- programm app section -->
-        <ProgrammOverview />
+        <!--<ProgrammOverview />-->
 
         <!-- team section -->
-        <Team />
+        <!--<Team />-->
 
          <!-- summit section -->
         <!--<Summit />-->
